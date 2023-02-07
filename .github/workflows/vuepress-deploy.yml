@@ -1,17 +1,2 @@
-name: vuepress build
-on: [push]
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@master
-
-    - name: vuepress-deploy
-      uses: jenkey2011/vuepress-deploy@v1.8.1
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: bwproject/projectbw-wik
-        TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn && yarn run build
-        BUILD_DIR: blog/.vuepress/dist/
+- name: Vuepress deploy
+  uses: jenkey2011/vuepress-deploy@v1.8.1
