@@ -1,15 +1,9 @@
-FROM node:16.4.2-slim as base
+FROM node:14-slim
 
-LABEL "com.github.actions.name"="Vuepress deploy"
-LABEL "com.github.actions.description"="A GitHub Action to build and deploy Vuepress sites to GitHub Pages"
-LABEL "com.github.actions.icon"="upload-cloud"
-LABEL "com.github.actions.color"="gray-dark"
+LABEL "com.github.actions.name"="vuepress1.x_compiler"
+LABEL "author"="Jianfeng"
 
-LABEL "repository"="https://github.com/jenkey2011/vuepress-deploy"
-LABEL "homepage"="https://github.com/jenkey2011/vuepress-deploy"
-LABEL "maintainer"="Jenkey2011 <jenkey2011@163.com>"
-
-RUN apt-get update && apt-get install -y git jq
+RUN apt update && yarn global add vuepress && npm install -g @vuepress/plugin-google-analytics
 
 COPY entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]

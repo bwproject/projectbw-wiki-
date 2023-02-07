@@ -1,9 +1,11 @@
-name: 'Vuepress deploy'
-description: 'A GitHub Action to build and publish Vuepress sites to GitHub Pages'
-author: 'Jenkey2011'
+# action.yml
+name: 'Vuepress 1.x Compiler'
+description: 'Compile vuepress projects'
+
 runs:
   using: 'docker'
   image: 'Dockerfile'
+
 branding:
-  icon: 'upload-cloud'
-  color: 'gray-dark'
+  icon: 'align-center'  
+  color: 'blue'

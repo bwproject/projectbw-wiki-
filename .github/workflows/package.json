@@ -1,5 +1,7 @@
 {
-  "dependencies": {
-    "create-vuepress-site": "^0.4.2-beta"
+  "name": "build",
+  "scripts": {
+    "build": "babel src -d lib",
+    "prebuild": "jest"
   }
 }
