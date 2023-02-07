@@ -1,18 +1,1 @@
-{
-  "name": "projectbw-wiki",
-  "version": "0.0.1",
-  "description": "projectbw-wiki",
-  "main": "index.js",
-  "authors": {
-    "name": "The_Mr_Mes109",
-    "email": "bw@projectbw.ru"
-  },
-  "scripts": {
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider; vuepress dev src",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider; vuepress build src"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.5.3"
-  }
-}
+
