@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md)
+English
 # vuepress-deploy ![visitor badge](https://count.jenkey2011.xyz/badge?id=jenkey2011.vuepress-deploy&label=page%20viewed)
 A GitHub Action to build and deploy Vuepress sites to GitHub Pages
 
