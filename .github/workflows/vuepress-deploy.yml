@@ -1,4 +1,4 @@
-name: vuepress
+name: vuepress build
 on: [push]
 jobs:
   build-and-deploy:
