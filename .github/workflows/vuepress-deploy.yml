@@ -10,8 +10,5 @@ jobs:
     - name: vuepress_compile
       uses: wjftu/vuepress_1.x_compiler@master
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: bwproject/projectbw-wik
-        TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build
-        BUILD_DIR: blog/.vuepress/dist/
+        SOURCE_DIR: /
