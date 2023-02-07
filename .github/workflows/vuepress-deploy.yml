@@ -7,12 +7,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
-    - name: Vuepress deploy
-      uses: jenkey2011/vuepress-deploy@v1.8.1
+    - name: vuepress-deploy
+      uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: bwproject/projectbw-wik
         TARGET_BRANCH: master
-        BUILD_SCRIPT: yarn install && yarn && yarn docs:build
-        BUILD_DIR: docs/.vuepress/dist
-        CNAME: https://wiki.projectbw.ru
+        BUILD_SCRIPT: yarn && yarn build
+        BUILD_DIR: blog/.vuepress/dist/
