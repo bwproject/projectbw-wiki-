@@ -11,9 +11,9 @@ export default defineUserConfig({
     description: 'GravitLauncher Wiki',
     port: '8080', //Порт на котором запускается VuePress
     theme: defaultTheme({
-        repo: 'GravitLauncher/Launcher',
-        docsRepo: 'https://github.com/GravitLauncher/LauncherWiki',
-        docsBranch: 'main',
+        repo: 'bwproject/projectbw-wiki',
+        docsRepo: 'https://github.com/bwproject/projectbw-wiki',
+        docsBranch: 'master',
         docsDir: 'docs',
         editLinkPattern: ':repo/edit/:branch/:path',
         locales: {
