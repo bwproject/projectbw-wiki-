@@ -8,8 +8,8 @@
     "email": "bw@projectbw.ru"
   },
   "scripts": {
-    "dev": "export NODE_OPTIONS=--openssl-legacy-provider; vuepress dev src",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider; vuepress build src"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
