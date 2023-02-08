@@ -38,13 +38,12 @@ export default defineUserConfig({
             {
                 text: 'Руководство',
                 children: [
-                    '/install/README.md',
-                    '/auth/README.md',
-                    '/clientbuild/README.md',
-                    '/servers/README.md',
-                    '/runtime/README.md',
-                    '/other/README.md',
-                    '/dev/README.md',
+                    '/0_welcome/README.md',
+                    '/1_rules/README.md',
+                    '/2_server/README.md',
+                    '/3_login/README.md',
+                    '/4_plugins/README.md',
+                    '/5_bedrock/README.md',					
                 ],
             },
             {
@@ -61,14 +60,13 @@ export default defineUserConfig({
                 {
                     text: 'Руководство',
                     collapsible: false,
-                    children: [
-                        '/install/README.md',
-                        '/auth/README.md',
-                        '/clientbuild/README.md',
-                        '/servers/README.md',
-                        '/runtime/README.md',
-                        '/other/README.md',
-                        '/dev/README.md',
+                    children: [						
+						'/0_welcome/README.md',
+						'/1_rules/README.md',
+						'/2_server/README.md',
+						'/3_login/README.md',
+						'/4_plugins/README.md',
+						'/5_bedrock/README.md',							
                     ],
                 },
             ],
