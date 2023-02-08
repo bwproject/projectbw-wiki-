@@ -9,7 +9,7 @@ actions:
     link: /0_welcome/
     type: primary
 features:
-  - title: 🔥 Версии
+  - title: 🔥 Версия
     details: Наш сервер поддерживаются все последние версии Minecraft начиная от 1.19.+
   - title: 🔒 ...
     details: ...
