@@ -1,9 +1,8 @@
 {
   "name": "docs:build",
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-    }
+  "docs:dev": "vuepress dev docs",
+  "docs:build": "vuepress build docs",
+  "build": "vuepress build docs"
+},
 }
