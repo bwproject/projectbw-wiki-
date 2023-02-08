@@ -1,5 +1,5 @@
 {
-  "name": "my-package",
+  "name": "docs:build",
   "scripts": {
     "build": "babel src -d lib",
     "test": "jest",
