@@ -7,8 +7,8 @@ export default defineUserConfig({
         ['link', {rel: 'icon', type: 'image/png', sizes: '32x32', href: `/images/icons/favicon-32x32.png`,}],
     ],
     lang: 'ru_RU',
-    title: 'GravitLauncher Wiki',
-    description: 'GravitLauncher Wiki',
+    title: 'ProjectBW-WiKi',
+    description: 'ProjectBW-WiKi',
     port: '8080', //Порт на котором запускается VuePress
     theme: defaultTheme({
         repo: 'bwproject/projectbw-wiki',
@@ -49,11 +49,11 @@ export default defineUserConfig({
             },
             {
                 text: 'Зеркало',
-                link: 'https://mirror.gravitlauncher.com/',
+                link: 'https://projectbw.ru/',
             },
             {
                 text: 'Discord',
-                link: 'https://discord.gg/b9QG4ygY75',
+                link: 'https://projectbw.ru/',
             },
         ],
         sidebar: {

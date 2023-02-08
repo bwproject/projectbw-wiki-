@@ -1,50 +1,25 @@
-# Vuepress 1.x Compiler
+# GravitLauncher Wiki (vuepress)
 
-This is a github action to help you compile vuepress project.
+Эта Википедия была обновлена специально для программного обеспечения GravitLauncher
 
-### Usage
+## Установка зависимостей
 
-Create a yaml file in the .github/workflows directory of your repository.
+```bash
+yarn
+```
 
-~~~yml
-name: Build and Deploy
-on: [push]
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
+### Запуск в режиме разработчика
 
-    - name: vuepress_compile
-      uses: wjftu/vuepress_1.x_compiler@master
-      env:
-        BUILD_SCRIPT: yarn && yarn docs:build
-        SOURCE_DIR: /
-~~~
+```bash
+yarn docs:dev
+```
 
-If your project directory structure is as follow:
-~~~
-project
-├── docs
-├── package.json
-├── project1
-|   ├── docs
-|   └── package.json
-└── project2
-    ├── docs
-    └── package.json
-~~~
+### Команда сборки статик файлов
 
-You should set
-~~~yml
-SOURCE_DIR： / /project1 /project2
-~~~
+```bash
+yarn docs:build
+```
 
-### Parameters
+Собранные файлы будут тут
 
-|Parameter|Description|Type|Required|Default|
-|-|-|-|-|-|
-|BUILD_SCRIPT|The script to build|env|No|yarn && yarn docs:build|
-|SOURCE_DIR|The directory which the package.json file in. The first slash is optional.<br/>If more than 1 source directory, split by blank. <br/>e.g.: dir1 dir2/dir3 /dir4|env|No|/|
-
+`docs/.vuepress/dist`
