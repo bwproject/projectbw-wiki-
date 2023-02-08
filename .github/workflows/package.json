@@ -1,6 +1,9 @@
 {
-    "scripts": {
-        "docs:dev": "vuepress dev docs",
-        "docs:build": "vuepress build docs"
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
     }
 }
