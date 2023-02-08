@@ -5,10 +5,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@master
 
-    - name: vuepress_compile
-      uses: wjftu/vuepress_1.x_compiler@master
+    - name: vuepress-deploy
+      uses: jenkey2011/vuepress-deploy@master
       env:
-        BUILD_SCRIPT: yarn && yarn docs:build
-        SOURCE_DIR: /
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        TARGET_REPO: bwproject/projectbw-wiki
+        TARGET_BRANCH: master
+        BUILD_SCRIPT: yarn && yarn build
+        BUILD_DIR: blog/.vuepress/dist/
