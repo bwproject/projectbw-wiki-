@@ -28,7 +28,7 @@ jobs:
         cache: 'yarn'
     - run: yarn install
     - run: yarn docs:build  
-    steps2:
+
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
