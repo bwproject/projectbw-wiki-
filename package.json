@@ -1,18 +1,17 @@
 {
-  "name": "projectbw-wiki",
-  "version": "0.0.1",
-  "description": "projectbw-wiki",
+  "name": "PROJECTBW-WIKI",
+  "version": "1.0.0",
+  "description": "enchald development (by THE_MR_MES109)",
   "main": "index.js",
-  "authors": {
-    "name": "The_Mr_Mes109",
-    "email": "bw@projectbw.ru"
-  },
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
-  "license": "MIT",
+  "author": "XJIuPa",
+  "license": "ISC",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^2.0.0-beta.50"
+  },
+  "dependencies": {
   }
 }
