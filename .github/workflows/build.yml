@@ -32,6 +32,21 @@ jobs:
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
 
+    - name: Gen dummy page
+        run: |
+          mkdir public
+          cat > public/index.html <<EOL
+          <!doctype html>
+          <html>
+            <head>
+              <title>GitHub Pages deployed!</title>
+            </head>
+            <body>
+              <p>GitHub Pages with <strong>${{ github.sha }}</strong> commit ID has been deployed through <a href="https://github.com/marketplace/actions/github-pages">GitHub Pages action</a> successfully.</p>
+            </body>
+          </html>
+          EOL
+
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v2
       with:
@@ -39,14 +54,8 @@ jobs:
         target_branch: gh-pages
         # deploy the default output dir of VuePress
         build_dir: docs/.vuepress/dist
+        fqdn: wiki.projectbw.ru
       env:
         # @see https://docs.github.com/en/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        CNAME: wiki.projectbw.ru
-        PAGES_CNAME: wiki.projectbw.ru
         
-    - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        folder: . # The folder the action should deploy
-        branch: gh-pages
