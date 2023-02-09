@@ -4,15 +4,15 @@
 ***Основатель и создатель проекта BW***
 >Ник : The_Mr_Mes109
 
->Сайт : <themrmes109.ru>
+>Сайт : <https://themrmes109.ru>
 
->Твич : <twitch.tv/the_mr_mes109>
+>Твич : <https://twitch.tv/the_mr_mes109>
 
 
 ## accountbyben
 ***Администратор проекта BW***
 >Ник : accountbyben
 
->Сайт : <streamsbyben.ru>
+>Сайт : <https://streamsbyben.ru>
 
->Твич : <twitch.tv/streamsbyben**>
+>Твич : <https://twitch.tv/streamsbyben**>
