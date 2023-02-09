@@ -9,11 +9,11 @@ actions:
     link: /0_welcome/
     type: primary
 features:
-  - title: 🔥 Версия сервера projectbw
+  - title: 🔥 Версия сервера projectbw 🔥
     details: Наш сервер поддерживаются все последние версии Minecraft начиная от 1.19.+
-  - title: 🔒 ...
+  - title: 🔒 ... 🔒
     details: ...
-  - title: 🔧 ...
+  - title: 🔧 ... 🔧
     details: ...
 footer: Projectbw.ru | Copyright © 2014-2023
 ---
