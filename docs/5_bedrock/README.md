@@ -1,6 +1,6 @@
 # Minecraft: Bedrock Edition
 
-![Bedrock](/images/bedrock/pre.png)
+![Bedrock mc](/images/bedrock/pre.png)
 
 Привязка Minecraft: Java & Bedrock Edition
 На нашем сервере можно играть как с Java, так и с Bedrock.
@@ -22,17 +22,21 @@ Bedrock-версия - .player322
 Вводим команду /linkaccount (Ник Bedrock [.player322])
 
 /linkaccount .TheMrMes1094036
-![Bedrock1](/images/bedrock/mc1.png)
+
+![Bedrock mc1](/images/bedrock/mc1.jpg)
 
 Система нам выдаст следующее сообщение: «Для связки аккаунтов зайдите с Bedrock и введите команду /linkaccount» (Ник Java [player]) (код)
 
 Пример кода
-![Bedrock2](/images/bedrock/mc2.png)
+
+![Bedrock mc2](/images/bedrock/mc2.jpg)
+
 Теперь заходим на сервер с Bedrock-версии игры по IP: mc.projectbw.ru:19132 Вводим команду /linkaccount (Ник Java [player]) (код из сообщения в игре на Java-версии)
 
 /linkaccount The_Mr_Mes109 1774
-![Bedrock3](/images/bedrock/mc3.png)
+
+![Bedrock mc3](/images/bedrock/mc3.jpg)
 
 Теперь ваши аккаунты связаны и вы получите такое сообщение:
 
-![Bedrock4](/images/bedrock/mc4.png)
+![Bedrock mc4](/images/bedrock/mc4.jpg)
