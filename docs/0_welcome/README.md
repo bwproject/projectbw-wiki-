@@ -1,4 +1,7 @@
-# Добро пожаловать на WIKI Projectbw
+# Добро пожаловать на WIKI ProjectBW
+
+ProjectBW - Сетка игровых серверов Beautiful World
+далее просто BW
 
 ## Сайт
 
