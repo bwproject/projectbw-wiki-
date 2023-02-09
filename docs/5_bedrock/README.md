@@ -1,11 +1,13 @@
-# Minecraft: Bedrock Edition
+# Привязка Minecraft: Java и Bedrock Edition
 
 ![Bedrock mc](/images/bedrock/pre.png)
 
 Привязка Minecraft: Java & Bedrock Edition
+
 На нашем сервере можно играть как с Java, так и с Bedrock.
-Java - наш любимый Minecraft на ПК.
-Bedrock - Minecraft для консолей/телефонов/Win10 и Win11.
+**Java - наш любимый Minecraft на ПК.**
+
+**Bedrock - Minecraft для консолей/телефонов/Win10 и Win11.**
 
 Для более удобной игры вы можете связать свой аккаунт Bedrock с Java!
 У вас будет единый инвентарь и ник!
@@ -15,11 +17,11 @@ Bedrock-версия - .player322
 
 Для начала зайдите на сервер с Bedrock версии игры по IP: mc.projectbw.ru:19132
 
-Выполните регистрацию /reg [Пароль] [Пароль]
+Выполните регистрацию ***</reg [Пароль] [Пароль]>***
 Запомним свой ник от Bedrock (пример .player322)
 
 Теперь заходим на сервер с Java-версии игры по IP: mc.projectbw.ru:25565
-Вводим команду /linkaccount (Ник Bedrock [.player322])
+Вводим команду ***</linkaccount (Ник Bedrock [.player322])>***
 
 /linkaccount .TheMrMes1094036
 
