@@ -22,7 +22,7 @@ Java-версия - player
 Bedrock-версия - .player322
 
 
-## 1
+## 1 Зайдите на сервер с Bedrock
 
 Для начала зайдите на сервер с Bedrock версии игры по IP: mc.projectbw.ru:19132
 
@@ -31,7 +31,7 @@ Bedrock-версия - .player322
 Запомним свой ник от Bedrock (пример .player322)
 
 
-##2
+##2 Зайдите на сервер с Java
 
 Теперь заходим на сервер с Java-версии игры по IP: mc.projectbw.ru:25565
 
@@ -51,12 +51,14 @@ Bedrock-версия - .player322
 ![Bedrock mc2](/images/bedrock/mc2.jpg)
 
 
-##3
+##3 Подтверждение привязки аккаунтов
 
 
 Теперь заходим на сервер с Bedrock-версии игры по IP: 
 
-mc.projectbw.ru:19132 Вводим команду ***/linkaccount (Ник Java [player]) (код из сообщения в игре на Java-версии)***
+mc.projectbw.ru:19132 
+
+Вводим команду ***/linkaccount (Ник Java [player]) (код из сообщения в игре на Java-версии)***
 
 :::::: code-group
 ```bas
