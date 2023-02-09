@@ -44,8 +44,10 @@ export default defineUserConfig({
                     '/3_login/README.md',
                     '/4_plugins/README.md',
                     '/5_bedrock/README.md',
+                    '/98_faq/README.md',
                     '/99_admins/README.md',
-                    '/98_faq/README.md',				
+
+                   				
                 ],
             },
             {
@@ -68,7 +70,8 @@ export default defineUserConfig({
 						'/2_server/README.md',
 						'/3_login/README.md',
 						'/4_plugins/README.md',
-	                                        '/99_admins/README.md',						'/5_bedrock/README.md',
+                                                '/98_faq/README.md',
+                                                '/99_admins/README.md', 					'/5_bedrock/README.md',
 						
                     ],
                 },
