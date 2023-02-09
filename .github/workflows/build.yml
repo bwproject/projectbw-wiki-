@@ -44,3 +44,9 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         CNAME: wiki.projectbw.ru
         PAGES_CNAME: wiki.projectbw.ru
+        
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: . # The folder the action should deploy
+        branch: gh-pages
