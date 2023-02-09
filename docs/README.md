@@ -15,5 +15,5 @@ features:
     details: ...
   - title: 🔧 ... 🔧
     details: ...
-footer: Projectbw.ru | Copyright © 2014-2023
+footer: projectbw.ru | Copyright © 2014-2023
 ---
