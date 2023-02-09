@@ -36,14 +36,15 @@ export default defineUserConfig({
         logo: 'images/hero.png',
         navbar: [
             {
-                text: 'Руководство',
+                text: 'BW WIKI',
                 children: [
                     '/0_welcome/README.md',
                     '/1_rules/README.md',
                     '/2_server/README.md',
                     '/3_login/README.md',
                     '/4_plugins/README.md',
-                    '/5_bedrock/README.md',					
+                    '/5_bedrock/README.md',
+                    '/99_admin/README.md',					
                 ],
             },
             {
@@ -58,7 +59,7 @@ export default defineUserConfig({
         sidebar: {
             '/': [
                 {
-                    text: 'Руководство',
+                    text: 'BW WIKI',
                     collapsible: false,
                     children: [						
 						'/0_welcome/README.md',
@@ -66,7 +67,8 @@ export default defineUserConfig({
 						'/2_server/README.md',
 						'/3_login/README.md',
 						'/4_plugins/README.md',
-						'/5_bedrock/README.md',							
+	                                        '/99_admin/README.md',						'/5_bedrock/README.md',
+						
                     ],
                 },
             ],
