@@ -26,16 +26,16 @@ Bedrock-версия - `.player322`
 
 Для начала зайдите на сервер с Bedrock версии игры по IP: `mc.projectbw.ru:19132`
 
-Выполните регистрацию ***/reg [Пароль] [Пароль]***
+Выполните регистрацию ***`/reg [Пароль] [Пароль]`***
 
-Запомним свой ник от Bedrock (пример .player322)
+Запомним свой ник от `Bedrock` (пример `.player322`)
 
 
 ## 2 Зайдите на сервер с Java
 
 Теперь заходим на сервер с Java-версии игры по IP: `mc.projectbw.ru:25565`
 
-Вводим команду ***/linkaccount (Ник Bedrock [.player322])***
+Вводим команду ***`/linkaccount (Ник Bedrock [.player322])`***
 
 ```bash
 /linkaccount .TheMrMes1094036
@@ -43,7 +43,7 @@ Bedrock-версия - `.player322`
 
 ![Bedrock mc1](/images/bedrock/mc1.jpg)
 
-Система нам выдаст следующее сообщение: «Для связки аккаунтов зайдите с Bedrock и введите команду ***/linkaccount» (Ник Java [player]) (код)***
+Система нам выдаст следующее сообщение: ***`«Для связки аккаунтов зайдите с Bedrock и введите команду ***/linkaccount» (Ник Java [player]) (код)»`***
 
 Пример кода:
 
@@ -55,7 +55,7 @@ Bedrock-версия - `.player322`
 
 Теперь заходим на сервер с Bedrock-версии игры по IP: `mc.projectbw.ru:19132` 
 
-Вводим команду ***/linkaccount (Ник Java [player]) (код из сообщения в игре на Java-версии)***
+Вводим команду ***`/linkaccount (Ник Java [player]) (код из сообщения в игре на Java-версии)`***
 
 ```bas
 /linkaccount The_Mr_Mes109 1774
