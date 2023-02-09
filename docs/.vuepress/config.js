@@ -3,8 +3,8 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default defineUserConfig({
     head: [
-        ['link', {rel: 'icon', type: 'image/png', sizes: '16x16', href: `/images/icons/favicon-16x16.png`,}],
-        ['link', {rel: 'icon', type: 'image/png', sizes: '32x32', href: `/images/icons/favicon-32x32.png`,}],
+        ['link', {rel: 'icon', type: 'image/png', sizes: '16x16', href: `/images/icons/16.png`,}],
+        ['link', {rel: 'icon', type: 'image/png', sizes: '32x32', href: `/images/icons/32.png`,}],
     ],
     lang: 'ru_RU',
     title: 'ProjectBW-WiKi',
