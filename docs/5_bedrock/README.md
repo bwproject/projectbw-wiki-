@@ -3,11 +3,11 @@
 ![Bedrock mc](/images/bedrock/pre.png)
 
 
-На нашем сервере можно играть как с Java, так и с Bedrock.
+На нашем сервере можно играть как с `Java`, так и с `Bedrock` Edition.
 
-**Java - наш любимый Minecraft на ПК.**
+**`Java` - Наш любимый Minecraft на ПК.**
 
-**Bedrock - Minecraft для консолей/телефонов/Win10 и Win11.**
+**`Bedrock` - Minecraft для консолей/телефонов/Win10 и Win11.**
 
 
 Для более удобной игры вы можете связать свой аккаунт Bedrock с Java!
@@ -17,14 +17,14 @@
 
 Примеры ников игроков для команд:
 
-Java-версия - player
+Java-версия - `player`
 
-Bedrock-версия - .player322
+Bedrock-версия - `.player322`
 
 
 ## 1 Зайдите на сервер с Bedrock
 
-Для начала зайдите на сервер с Bedrock версии игры по IP: mc.projectbw.ru:19132
+Для начала зайдите на сервер с Bedrock версии игры по IP: `mc.projectbw.ru:19132`
 
 Выполните регистрацию ***/reg [Пароль] [Пароль]***
 
@@ -33,7 +33,7 @@ Bedrock-версия - .player322
 
 ## 2 Зайдите на сервер с Java
 
-Теперь заходим на сервер с Java-версии игры по IP: mc.projectbw.ru:25565
+Теперь заходим на сервер с Java-версии игры по IP: `mc.projectbw.ru:25565`
 
 Вводим команду ***/linkaccount (Ник Bedrock [.player322])***
 
@@ -53,9 +53,7 @@ Bedrock-версия - .player322
 ## 3 Подтверждение привязки аккаунтов
 
 
-Теперь заходим на сервер с Bedrock-версии игры по IP: 
-
-mc.projectbw.ru:19132 
+Теперь заходим на сервер с Bedrock-версии игры по IP: `mc.projectbw.ru:19132` 
 
 Вводим команду ***/linkaccount (Ник Java [player]) (код из сообщения в игре на Java-версии)***
 
