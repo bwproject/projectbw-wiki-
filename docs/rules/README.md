@@ -1,4 +1,4 @@
-# Правила ProjectBW
+# Правила
 
 ## ProjectBW
 
