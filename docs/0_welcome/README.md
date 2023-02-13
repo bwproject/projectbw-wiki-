@@ -47,7 +47,7 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 **Желаем вам приятной игры на сервере!
 C уважением, администрация сервера Recreation.**
 
-## WiKi на движке VuePress Сделал The_Mr_Mes109
+## WiKi на движке 'VuePress' Сделал The_Mr_Mes109
 WiKi специально для серверов BW написал: 
 **the_mr_mes109** 
 
