@@ -3,10 +3,10 @@ home: true
 title: Главная страница
 heroImage: /images/hero.png
 heroText: ProjectBW WiKi
-tagline: WiKi написан специально для проекта серверов ProjectBW. Узнай больше !
+tagline: WiKi написан специально для проекта серверов ProjectBW.
 actions:
   - text: Приступить к изучению
-    link: /0_welcome/
+    link: /welcome/
     type: primary
 features:
   - title: 🔥 Версия сервера projectbw 🔥
@@ -15,5 +15,5 @@ features:
     details: ...
   - title: 🔧 ... 🔧
     details: ...
-footer: projectbw.ru | Copyright © 2014-2023
+footer: Beautiful World Project © 2014-2023 
 ---

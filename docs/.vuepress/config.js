@@ -38,25 +38,25 @@ export default defineUserConfig({
             {
                 text: 'BW WIKI',
                 children: [
-                    '/0_welcome/README.md',
-                    '/1_rules/README.md',
-                    '/2_server/README.md',
-                    '/3_login/README.md',
-                    '/4_plugins/README.md',
-                    '/5_bedrock/README.md',
-                    '/98_faq/README.md',
-                    '/99_admins/README.md',
+                    '/welcome/README.md',
+                    '/rules/README.md',
+                    '/server/README.md',
+                    '/login/README.md',
+                    '/plugins/README.md',
+                    '/bedrock/README.md',
+                    '/faq/README.md',
+                    '/admins/README.md',
 
                    				
                 ],
             },
             {
-                text: 'Зеркало',
+                text: 'ProjectBW',
                 link: 'https://projectbw.ru/',
             },
             {
-                text: 'Discord',
-                link: 'https://projectbw.ru/',
+                text: 'Recreation',
+                link: 'https://rc.projectbw.ru/',
             },
         ],
         sidebar: {
@@ -65,13 +65,14 @@ export default defineUserConfig({
                     text: 'BW WIKI',
                     collapsible: false,
                     children: [						
-						'/0_welcome/README.md',
-						'/1_rules/README.md',
-						'/2_server/README.md',
-						'/3_login/README.md',
-						'/4_plugins/README.md',
-                                                '/98_faq/README.md',
-                                                '/99_admins/README.md', 					'/5_bedrock/README.md',
+						'/welcome/README.md',
+						'/rules/README.md',
+						'/server/README.md',
+						'/login/README.md',
+						'/plugins/README.md',
+						'/bedrock/README.md',
+                        '/faq/README.md',
+                        '/admins/README.md', 					
 						
                     ],
                 },
