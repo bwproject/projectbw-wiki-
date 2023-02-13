@@ -11,9 +11,9 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 
 ### Полезные ссылки
 
-`Сайт` : (https://projectbw.ru/)
+`Сайт` : [ProjectBW](https://projectbw.ru/)
 
-`Группа ВК` : (https://vk.com/projectbw)
+`Группа ВК` : [VK](https://vk.com/projectbw)
 
 **Описание серверов уже в разработке** 
 
@@ -23,23 +23,23 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 
 ### Полезные ссылки
 
-`Сайт` : (https://recreation.projectbw.ru/)
+`Сайт` : [Recreation](https://recreation.projectbw.ru/)
 
-`Группа ВК` : (https://vk.com/recreation_mine)
+`Группа ВК` : [VK](https://vk.com/recreation_mine)
 
-`Дискорд` : (discord.gg/WQJcsysUmN)
+`Дискорд` : [Discord](https://discord.gg/WQJcsysUmN)
 
 ### Голосуй за сервер и получай призы
 
 **Голосуй за сервер на мониторингах и получай ® 500 RCoin за голос**
 
-[HotMC.RU](https://hotmc.ru/minecraft-server-240076)
+`HotMC` : [HotMC.RU](https://hotmc.ru/minecraft-server-240076)
 
-[Top-Games.net](https://ru.top-games.net/minecraft/vote/recreation)
+`Top-Games` : [Top-Games.net](https://ru.top-games.net/minecraft/vote/recreation)
 
-[Minecraft-Statistic.net](https://minecraft-statistic.net/ru/server/Recreation.html)
+`Minecraft-Statistic` : [Minecraft-Statistic.net](https://minecraft-statistic.net/ru/server/Recreation.html)
 
-[inecraft-Serverlist.com](https://minecraft-serverlist.com/server/422)
+`Minecraft-Serverlist` : [Minecraft-Serverlist.com](https://minecraft-serverlist.com/server/422)
 
 ### **Recreation | Приватный Minecraft Сервер |**
 `1.19.3` | `Ванила` | `Пиратка / Лицензия` | `Приватный Сервер` | `Плагин Towny`
