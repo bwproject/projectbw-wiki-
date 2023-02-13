@@ -23,7 +23,7 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 
 ### Полезные ссылки
 
-`Сайт` : [Recreation](https://recreation.projectbw.ru/)
+`Сайт` : [Recreation](https://recreation.projectbw.ru)
 
 `Группа ВК` : [VK](https://vk.com/recreation_mine)
 
