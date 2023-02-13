@@ -21,13 +21,17 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 
 ![rc](/images/rc/rc1920х600.jpg)
 
-### Полезные ссылки
+### **Полезные ссылки**
 
 `Сайт` : [Recreation](https://recreation.projectbw.ru)
 
 `Группа ВК` : [VK](https://vk.com/recreation_mine)
 
 `Дискорд` : [Discord](https://discord.gg/WQJcsysUmN)
+
+`Правила сервера` : [Правила сервера](https://vk.com/@recreation_mine-prvila-servera-recreation)
+
+`Гайд по плагину «Towny»` : [Плагин «Towny» и как с ним взаимодействовать на сервере Recreation](https://vk.com/@recreation_mine-plagin-towny-i-kak-s-nim-vzaimodeistvovat-na-servere-recreat)
 
 ### Голосуй за сервер и получай призы
 
@@ -74,7 +78,8 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 **Желаем вам приятной игры на сервере!
 C уважением, администрация сервера Recreation.**
 
-## WiKi на движке `VuePress` Сделал The_Mr_Mes109
+## WiKi было сделанно на движке `VuePress`
+[VuePress](https://vuepress.vuejs.org/)
 WiKi специально для серверов BW написал: 
 **the_mr_mes109** 
 
