@@ -81,9 +81,13 @@ C уважением, администрация сервера Recreation.**
 ## WiKi было сделанно на движке `VuePress`
 [VuePress](https://vuepress.vuejs.org/)
 WiKi специально для серверов BW написал: 
-**the_mr_mes109** 
+
+**The_Mr_Mes109** 
 
 Отдельное спасибо:
-**1**
+
+**The_Ms_Mes109**
+
+**accountbyben**
 
 
