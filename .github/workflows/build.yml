@@ -29,7 +29,7 @@ jobs:
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
       #      https://github.com/crazy-max/ghaction-github-pages
- GitHub_Pages:
+  pages:
       needs: list
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v2
