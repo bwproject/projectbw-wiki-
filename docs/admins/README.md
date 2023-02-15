@@ -40,6 +40,7 @@
 
 ### `AccountByBen`
 ***Администратор проекта BW***
+***Контент-Менеджер***
 >Ник : accountbyben
 
 >Сайт : <https://streamsbyben.ru>
