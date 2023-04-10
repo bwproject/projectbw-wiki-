@@ -46,6 +46,8 @@ export default defineUserConfig({
                     '/bedrock/README.md',
                     '/faq/README.md',
                     '/admins/README.md',
+                    '/launcher/README.md',
+                    '/telegram bot/README.md',
 
                    				
                 ],
@@ -71,8 +73,10 @@ export default defineUserConfig({
 						'/login/README.md',
 						'/plugins/README.md',
 						'/bedrock/README.md',
-                        '/faq/README.md',
-                        '/admins/README.md', 					
+                                                '/faq/README.md',
+                                                '/admins/README.md', 
+                                                '/launcher/README.md',
+                                                '/telegram bot/README.md',					
 						
                     ],
                 },
