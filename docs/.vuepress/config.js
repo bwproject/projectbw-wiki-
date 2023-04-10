@@ -47,7 +47,7 @@ export default defineUserConfig({
                     '/faq/README.md',
                     '/admins/README.md',
                     '/launcher/README.md',
-                    '/telegram bot/README.md',
+                    '/telegrambot/README.md',
 
                    				
                 ],
@@ -76,7 +76,7 @@ export default defineUserConfig({
                                                 '/faq/README.md',
                                                 '/admins/README.md', 
                                                 '/launcher/README.md',
-                                                '/telegram bot/README.md',					
+                                                '/telegrambot/README.md',					
 						
                     ],
                 },
