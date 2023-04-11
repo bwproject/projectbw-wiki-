@@ -2,10 +2,12 @@
 ![projectbw tgbot](/images/tgbot/bot.jpg)
 
 У нас есть Телеграмм бот @ProjectBW_Support_bot 
+
 `Бот в Телеграмм` : [Support bot](t.me/ProjectBW_Support_bot)
 
 # В Чате с Ботом можно получить ответ на FAQ
 Раздел с FAQ так же находиться на Wiki
+
 `FAQ` : [FAQ](https://wiki.projectbw.ru/faq/)
 
 # В Чате с Ботом можно задать свой вопрос
