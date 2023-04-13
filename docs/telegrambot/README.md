@@ -1,12 +1,12 @@
-#Телеграм боты
+# Телеграм боты
 У нас есть несколько ботов для телеграмм
 
-[Support bot](t.me/ProjectBW_Support_bot)
+## [Support bot](t.me/ProjectBW_Support_bot)
 
 Бот для поддержки пользователей
 
 
-[ProjectBW bot](t.me/ProjectBW)
+## [ProjectBW bot](t.me/ProjectBW)
 
 Бот для связи игрового аккаунта с телеграмом 
 
