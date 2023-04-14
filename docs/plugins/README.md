@@ -4,13 +4,23 @@
 
 ### Регистрация/Авторизация
 
+/register <pass> <pass> или /reg <pass> <pass> : Эта команда для регистрации аккаунта 
+
+/login <pass> или /l <pass> : Эта команда для входа в Ваш аккаунт
+
+/changepassword <oldpass> <newpass>: Эта команда для изменения пароля
+
+/unregister : Эта команда для удаления Вашего аккаунта
+
 /destroysession - Destroy Account Auth Session Command
 
 /license or /premium - Command Makes Account Premium
 
-/unregister - Unregister Account Command
+<pass> - Ваш пароль
 
-/changepassword - Change Account Password Command
+<newpass> - Ваш новый пароль 
+
+<oldpass> - Ваш старый пароль 
 
 ### Игровая Валюта
 
