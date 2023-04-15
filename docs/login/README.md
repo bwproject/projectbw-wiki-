@@ -4,7 +4,9 @@
 - Для регистрации зайдите на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
-- Введите команду /reg (Ваш Пароль) (Ваш пароль)
+
+- Введите команду : 
+`/reg (Ваш Пароль) (Ваш пароль)`
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![Register1](/images/register/register1.png)
 
@@ -16,10 +18,12 @@
 
 
 ## Авторизация
-- Для регистрации зайдите на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
+- Для авторизации зайдите на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
-- Введите команду /l (Ваш Пароль)
+
+- Введите команду : 
+`/l (Ваш Пароль)`
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![login1](/images/register/login1.png)
 
@@ -30,9 +34,21 @@
 ## Если у Вас Лицензия Minecraft
 
 Если у Вас `Лицензия Minecraft` Вы можете включить вход через `Лицензию` что бы каждый раз не вводить пароль
-- 1
-- 2
-- 3
+- Пройдите авторизации на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
+<!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
+![mc.projectbw.ru](/images/mc.projectbw.ru.png)
+
+- Введите команду :
+`/premium (Ваш Пароль) confirm`
+<!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
+![premium1](/images/register/premium1.png)
+
+![premium2](/images/register/premium2.png)
+
+![premium3](/images/register/premium3.png)
+
+- Вас должно выкинуть с сервера
+Теперь можно заходить на сервер без пароля через `Лицензию`
 
 ## Забыли пароль
 
