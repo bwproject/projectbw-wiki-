@@ -20,7 +20,12 @@
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 - Введите команду /l (Ваш Пароль) (Ваш пароль)
+<!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
+![login1](/images/register/login1.png)
 
+![login2](/images/register/login2.png)
+
+![login3](/images/register/login3.png)
 
 ## Если у Вас Лицензия Minecraft
 - 1
