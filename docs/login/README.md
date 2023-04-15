@@ -19,7 +19,7 @@
 - Для регистрации зайдите на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
-- Введите команду /l (Ваш Пароль) (Ваш пароль)
+- Введите команду /l (Ваш Пароль)
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![login1](/images/register/login1.png)
 
@@ -33,6 +33,20 @@
 - 3
 
 ## Забыли пароль
+
+### У вас есть пивязанная аккаунт в соцсети
+- 1
+- 2
+- 3
+### Попросить администрацию сервера в Группе ВК
+- 1
+- 2
+- 3
+### Через бота саппорта в Телеграмме
+- 1
+- 2
+- 3
+### Создать ТИКЕТ на сайте
 - 1
 - 2
 - 3
