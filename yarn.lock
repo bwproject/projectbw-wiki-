@@ -1633,6 +1633,16 @@ vuepress-vite@2.0.0-beta.50:
     "@vuepress/cli" "2.0.0-beta.50"
     "@vuepress/core" "2.0.0-beta.50"
     "@vuepress/theme-default" "2.0.0-beta.50"
+    
+vuepress-vite@2.0.0-beta.61:
+  version "2.0.0-beta.61"
+  resolved "https://registry.yarnpkg.com/vuepress-vite/-/vuepress-vite-2.0.0-beta.61.tgz#1b6f0332f0b920ca65c74025a0b36526ef4e3c22"
+  integrity sha512-LJxFTTkGFVHTfG1BsrysevVOp5RT4151fSrTBP68/NfpW7xv+8PdVxgATwKqgPwPJ+AXJhYN/7sZC4gjKbgGpw==
+  dependencies:
+    "@vuepress/bundler-vite" "2.0.0-beta.61"
+    "@vuepress/cli" "2.0.0-beta.61"
+    "@vuepress/core" "2.0.0-beta.50"
+    "@vuepress/theme-default" "2.0.0-beta.61"    
 
 vuepress@^2.0.0-beta.50:
   version "2.0.0-beta.50"
