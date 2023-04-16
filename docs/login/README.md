@@ -61,6 +61,13 @@
 
 ДИСКОРД
 
+- Пройдите авторизации на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
+<!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
+![mc.projectbw.ru](/images/mc.projectbw.ru.png)
+
+- Введите команду :
+`/addsocial'
+
 ## Забыли пароль
 
 ### У вас есть привязанная аккаунт в соцсети
