@@ -1615,7 +1615,7 @@ vue-router@^4.1.4:
 
 vue@^3.2.37:
   version "3.2.37"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.37.tgz#da220ccb618d78579d25b06c7c21498ca4e5452e"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.37.tgz"
   integrity sha512-bOKEZxrm8Eh+fveCqS1/NkG/n6aMidsI6hahas7pa0w/l7jkbssJVsRhVDs07IdDq7h9KHswZOgItnwJAgtVtQ==
   dependencies:
     "@vue/compiler-dom" "3.2.37"
@@ -1626,7 +1626,7 @@ vue@^3.2.37:
 
 vuepress-vite@2.0.0-beta.61:
   version "2.0.0-beta.61"
-  resolved "https://registry.npmjs.org/vuepress-vite/-/vuepress-vite-2.0.0-beta.61.tgz#1b6f0332f0b920ca65c74025a0b36526ef4e3c22"
+  resolved "https://registry.npmjs.org/vuepress-vite/-/vuepress-vite-2.0.0-beta.61.tgz"
   integrity SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA
   dependencies:
     "@vuepress/bundler-vite" "2.0.0-beta.61"
