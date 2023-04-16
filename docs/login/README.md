@@ -53,13 +53,13 @@
 
 ## Привязка аккаунта Minecraft к соц. сети
 
-Аккаунт
+Аккаунты бота в соц сетях
 
-ВК
+ВК : vk.com/projectbw
 
-ТЕЛЕГРАММ
+ТЕЛЕГРАММ :  @projectbw_bot 
 
-ДИСКОРД
+ДИСКОРД : PROJECTBW.RU#7060
 
 - Пройдите авторизации на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
