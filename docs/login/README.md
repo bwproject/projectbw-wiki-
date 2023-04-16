@@ -32,7 +32,7 @@
 
 ## Если у Вас Лицензия Minecraft
 
-Если у Вас `Лицензия Minecraft` Вы можете включить вход через `Лицензию` что бы каждый раз не вводить пароль!
+Если у Вас `Лицензия Minecraft` Вы можете включить вход через `Лицензию`, чтобы каждый раз не вводить пароль!
 - Пройдите авторизацию на сервере по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
