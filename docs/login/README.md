@@ -66,6 +66,7 @@
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 
 - Введите команду :
+
 `/addsocial`
 ![soc1](/images/register/soc1.png)
 
@@ -77,7 +78,8 @@
 ![soc2](/images/register/soc2.png)
 
 - Возращаемся в Minecraft и пишем команду которую дал нам бот
-/addsocial (КОД ИЗ БОТА)
+
+`/addsocial (КОД ИЗ БОТА)`
 ![soc3](/images/register/soc3.png)
 
 - Теперь можно вернуться в бота и увидеть новые функции
