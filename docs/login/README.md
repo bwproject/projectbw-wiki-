@@ -67,6 +67,7 @@
 
 - Введите команду :
 `/addsocial'
+![soc1](/images/register/soc1.png)
 
 ## Забыли пароль
 
