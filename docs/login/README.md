@@ -66,8 +66,22 @@
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 
 - Введите команду :
-`/addsocial'
+`/addsocial`
 ![soc1](/images/register/soc1.png)
+
+- Перейдите в удобную соц сеть и следуйте инструкции
+
+В примере будем использовать Телегу
+
+Пишем боту `!account link (Ваш ник)`
+![soc2](/images/register/soc2.png)
+
+- Возращаемся в Minecraft и пишем команду которую дал нам бот
+/addsocial (КОД ИЗ БОТА)
+![soc3](/images/register/soc3.png)
+
+- Теперь можно вернуться в бота и увидеть новые функции
+![soc4](/images/register/soc4.png)
 
 ## Забыли пароль
 
