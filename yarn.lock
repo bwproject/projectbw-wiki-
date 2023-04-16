@@ -1636,8 +1636,8 @@ vuepress-vite@2.0.0-beta.50:
     
 vuepress-vite@2.0.0-beta.61:
   version "2.0.0-beta.61"
-  resolved "https://registry.yarnpkg.com/vuepress-vite/-/vuepress-vite-2.0.0-beta.61.tgz#1b6f0332f0b920ca65c74025a0b36526ef4e3c22"
-  integrity sha512-LJxFTTkGFVHTfG1BsrysevVOp5RT4151fSrTBP68/NfpW7xv+8PdVxgATwKqgPwPJ+AXJhYN/7sZC4gjKbgGpw==
+  resolved "https://registry.yarnpkg.com/vuepress-vite/-/vuepress-vite-2.0.0-beta.61.tgz#04058551e6be014e9f2dee14c5d8043b158e032d"
+  integrity sha512-4mcR8XSY5b36CYkPqF80WvoeGAEjTw6Cr9bMPHrPVSjG4qqyfVpdSdyRtXD+/5aLJB7r/L60J7PI1pKTci1+3w==
   dependencies:
     "@vuepress/bundler-vite" "2.0.0-beta.61"
     "@vuepress/cli" "2.0.0-beta.61"
