@@ -1394,7 +1394,7 @@ prismjs@^1.28.0:
 
 queue-microtask@^1.2.2:
   version "1.2.3"
-  resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz"
+  resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
 readable-stream@^3.4.0:
@@ -1615,7 +1615,7 @@ vue-router@^4.1.4:
 
 vue@^3.2.37:
   version "3.2.37"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.37.tgz"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.37.tgz#da220ccb618d78579d25b06c7c21498ca4e5452e"
   integrity sha512-bOKEZxrm8Eh+fveCqS1/NkG/n6aMidsI6hahas7pa0w/l7jkbssJVsRhVDs07IdDq7h9KHswZOgItnwJAgtVtQ==
   dependencies:
     "@vue/compiler-dom" "3.2.37"
@@ -1624,22 +1624,22 @@ vue@^3.2.37:
     "@vue/server-renderer" "3.2.37"
     "@vue/shared" "3.2.37"
 
-vuepress-vite@2.0.0-beta.61:
-  version "2.0.0-beta.61"
-  resolved "https://registry.npmjs.org/vuepress-vite/-/vuepress-vite-2.0.0-beta.61.tgz"
-  integrity SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA
+vuepress-vite@2.0.0-beta.50:
+  version "2.0.0-beta.50"
+  resolved "https://registry.yarnpkg.com/vuepress-vite/-/vuepress-vite-2.0.0-beta.50.tgz#1b6f0332f0b920ca65c74025a0b36526ef4e3c22"
+  integrity sha512-LJxFTTkGFVHTfG1BsrysevVOp5RT4151fSrTBP68/NfpW7xv+8PdVxgATwKqgPwPJ+AXJhYN/7sZC4gjKbgGpw==
   dependencies:
-    "@vuepress/bundler-vite" "2.0.0-beta.61"
-    "@vuepress/cli" "2.0.0-beta.61"
-    "@vuepress/core" "2.0.0-beta.61"
-    "@vuepress/theme-default" "2.0.0-beta.61"
+    "@vuepress/bundler-vite" "2.0.0-beta.50"
+    "@vuepress/cli" "2.0.0-beta.50"
+    "@vuepress/core" "2.0.0-beta.50"
+    "@vuepress/theme-default" "2.0.0-beta.50"
 
-vuepress@^2.0.0-beta.61:
-  version "2.0.0-beta.61"
-  resolved "https://registry.npmjs.org/vuepress/-/vuepress-2.0.0-beta.61.tgz#43897f5de7d67fe03c7b36fa70d8bf0d58dd583a"
-  integrity SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA
+vuepress@^2.0.0-beta.50:
+  version "2.0.0-beta.50"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.50.tgz#43897f5de7d67fe03c7b36fa70d8bf0d58dd583a"
+  integrity sha512-iBWEvKT9j4MLlrx7ky/4meguCE0FKMMtaqIw9LVrlPQvBj0TS4C3p+KNigyGyQYWAfpbpLctWTxgiqId9yXiPw==
   dependencies:
-    vuepress-vite "2.0.0-beta.61"
+    vuepress-vite "2.0.0-beta.50"
 
 wcwidth@^1.0.1:
   version "1.0.1"
