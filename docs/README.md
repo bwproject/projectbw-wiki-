@@ -1,6 +1,6 @@
 ---
 home: true
-title: Главная страница
+title: Главная страница.
 heroImage: /images/hero.png
 heroText: ProjectBW WiKi
 tagline: WiKi написан специально для проекта серверов ProjectBW.
