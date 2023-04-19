@@ -28,15 +28,6 @@ jobs:
         cache: 'yarn'
     - run: yarn install
     - run: yarn docs:build  
-    
-    - name: telegramm send
-      uses: robotomize/notify-telegram@v0.1.0
-      if: always()
-      with:
-        chat: ${{ secrets.chat }} # user id or channel name secret
-        token: ${{ secrets.token }} # token secret
-        status: ${{ job.status }} # do not modify this line
-        message: ${{ secrets.message }} # custom message
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
@@ -48,6 +39,16 @@ jobs:
         # deploy to gh-pages branch
         target_branch: gh-pages
         # deploy the default output dir of VuePress
+        
+    - name: telegramm send
+      uses: robotomize/notify-telegram@v0.1.0
+      if: always()
+      with:
+        chat: ${{ secrets.chat }} # user id or channel name secret
+        token: ${{ secrets.token }} # token secret
+        status: ${{ job.status }} # do not modify this line
+        message: ${{ secrets.message }} # custom message
+
         build_dir: docs/.vuepress/dist
         fqdn: wiki.projectbw.ru
       env:
