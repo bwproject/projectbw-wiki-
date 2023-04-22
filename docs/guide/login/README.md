@@ -6,7 +6,10 @@
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 
 - Введите команду : 
-`/reg (Ваш Пароль) (Ваш пароль)`
+***`/reg (Ваш Пароль) (Ваш пароль)`***
+```bash
+/reg PasswordBW322 PasswordBW322
+```
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![Register1](/images/register/register1.png)
 
@@ -22,7 +25,11 @@
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 
 - Введите команду : 
-`/l (Ваш Пароль)`
+***`/l (Ваш Пароль)`***
+
+```bash
+/l PasswordBW322
+```
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![login1](/images/register/login1.png)
 
@@ -38,7 +45,12 @@
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 
 - Введите команду :
-`/premium (Ваш Пароль) confirm`
+***`/premium (Ваш Пароль) confirm`***
+
+```bash
+/premium PasswordBW322 confirm
+```
+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![premium1](/images/register/premium1.png)
 
@@ -65,8 +77,11 @@
 ![mc.projectbw.ru](/images/mc.projectbw.ru.png)
 
 - Введите команду :
+***`/addsocial`***
 
-`/addsocial`
+```bash
+/addsocial
+```
 
 ![soc1](/images/register/soc1.png)
 
@@ -74,13 +89,20 @@
 
 В примере будем использовать Telegram:
 
-Пишем боту `!account link (Ваш ник)`
+Пишем боту ***`!account link (Ваш ник)`***
+
+```bash
+!account link Player
+```
 
 ![soc2](/images/register/soc2.png)
 
 - Возращаемся в Minecraft и пишем команду, которую дал нам бот
+***`/addsocial (КОД ИЗ БОТА)`***
 
-`/addsocial (КОД ИЗ БОТА)`
+```bash
+/addsocial 7792220
+```
 
 ![soc3](/images/register/soc3.png)
 
@@ -107,7 +129,11 @@
 
 - Теперь в игре можно поменять пароль командой
 
-`/changepass (Ваш старый пароль(В данном случаи пароль из бота)) (Ваш новый пароль)`
+***`/changepass (Ваш старый пароль(В данном случаи пароль из бота)) (Ваш новый пароль)`***
+
+```bash
+/changepass 3fcb78db2a578844 PasswordBW322
+```
 
 ![res4](/images/register/res4.png)
 
