@@ -3,7 +3,7 @@
 ## Регистрация
 - Для регистрации зайдите на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![mc.projectbw.ru](/images/mc.projectbw.ru.png)
+![mc.projectbw.ru](https://wiki.projectbw.ru/images/mc.projectbw.ru.png)
 
 - Введите команду : 
 ***`/reg (Ваш Пароль) (Ваш пароль)`***
@@ -11,18 +11,18 @@
 /reg PasswordBW322 PasswordBW322
 ```
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![Register1](/images/register/register1.png)
+![Register1](https://wiki.projectbw.ru/images/register/register1.png)
 
-![Register2](/images/register/register2.png)
+![Register2](https://wiki.projectbw.ru/images/register/register2.png)
 
-![Register3](/images/register/register3.png)
+![Register3](https://wiki.projectbw.ru/images/register/register3.png)
 
 - Запомните свой пароль. Его можно будет сбросить только в том случае, если вы привяжите аккаунт в соцсети!
 
 ## Авторизация
 - Для авторизации зайдите на сервер по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![mc.projectbw.ru](/images/mc.projectbw.ru.png)
+![mc.projectbw.ru](https://wiki.projectbw.ru/images/mc.projectbw.ru.png)
 
 - Введите команду : 
 ***`/l (Ваш Пароль)`***
@@ -31,18 +31,18 @@
 /l PasswordBW322
 ```
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![login1](/images/register/login1.png)
+![login1](https://wiki.projectbw.ru/images/register/login1.png)
 
-![login2](/images/register/login2.png)
+![login2](https://wiki.projectbw.ru/images/register/login2.png)
 
-![login3](/images/register/login3.png)
+![login3](https://wiki.projectbw.ru/images/register/login3.png)
 
 ## Если у Вас Лицензия Minecraft
 
 Если у Вас `Лицензия Minecraft` Вы можете включить вход через `Лицензию`, чтобы каждый раз не вводить пароль!
 - Пройдите авторизацию на сервере по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![mc.projectbw.ru](/images/mc.projectbw.ru.png)
+![mc.projectbw.ru](https://wiki.projectbw.ru/images/mc.projectbw.ru.png)
 
 - Введите команду :
 ***`/premium (Ваш Пароль) confirm`***
@@ -52,11 +52,11 @@
 ```
 
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![premium1](/images/register/premium1.png)
+![premium1](https://wiki.projectbw.ru/images/register/premium1.png)
 
-![premium2](/images/register/premium2.png)
+![premium2](https://wiki.projectbw.ru/images/register/premium2.png)
 
-![premium3](/images/register/premium3.png)
+![premium3](https://wiki.projectbw.ru/images/register/premium3.png)
 
 - Вас должно выкинуть с сервера
 
@@ -74,7 +74,7 @@
 
 - Пройдите авторизацию на сервере по ip: `mc.projectbw.ru` С версии игры 1.19+
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![mc.projectbw.ru](/images/mc.projectbw.ru.png)
+![mc.projectbw.ru](https://wiki.projectbw.ru/images/mc.projectbw.ru.png)
 
 - Введите команду :
 ***`/addsocial`***
@@ -83,7 +83,7 @@
 /addsocial
 ```
 
-![soc1](/images/register/soc1.png)
+![soc1](https://wiki.projectbw.ru/images/register/soc1.png)
 
 - Перейдите в удобную соц. сеть и следуйте инструкции!
 
@@ -95,7 +95,7 @@
 !account link Player
 ```
 
-![soc2](/images/register/soc2.png)
+![soc2](https://wiki.projectbw.ru/images/register/soc2.png)
 
 - Возращаемся в Minecraft и пишем команду, которую дал нам бот
 ***`/addsocial (КОД ИЗ БОТА)`***
@@ -104,11 +104,11 @@
 /addsocial 7792220
 ```
 
-![soc3](/images/register/soc3.png)
+![soc3](https://wiki.projectbw.ru/images/register/soc3.png)
 
 - Теперь можно вернуться в бота и увидеть новые функции
 - 
-![soc4](/images/register/soc4.png)
+![soc4](https://wiki.projectbw.ru/images/register/soc4.png)
 
 ## Забыли пароль
 
@@ -119,13 +119,13 @@
 
 - Найдите в боте кнопку `Восстановить пароль`
 
-![res1](/images/register/res1.png)
+![res1](https://wiki.projectbw.ru/images/register/res1.png)
 
-![res2](/images/register/res2.png)
+![res2](https://wiki.projectbw.ru/images/register/res2.png)
 
 - Бот отправит Ваш новый пароль
 
-![res3](/images/register/res3.png)
+![res3](https://wiki.projectbw.ru/images/register/res3.png)
 
 - Теперь в игре можно поменять пароль командой
 
@@ -135,7 +135,7 @@
 /changepass 3fcb78db2a578844 PasswordBW322
 ```
 
-![res4](/images/register/res4.png)
+![res4](https://wiki.projectbw.ru/images/register/res4.png)
 
 - Теперь у Вас новый пароль
 
