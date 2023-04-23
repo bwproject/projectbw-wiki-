@@ -1,4 +1,5 @@
 # Сервера projectbw
+![projectbw logo](https://projectbw.ru/banner/banner.php?preset=BW) 
 На проекте BW есть разные сервера с режимами игры
 
 ## Recreation
