@@ -14,7 +14,7 @@
 
 
 # Телеграмм бот для Поддержки пользователей сервера
-![projectbw tgbot](/images/tgbot/bot.jpg)
+![projectbw tgbot](https://wiki.projectbw.ru/images/tgbot/bot.jpg)
 
 У нас есть Телеграмм бот @ProjectBW_Support_bot 
 
