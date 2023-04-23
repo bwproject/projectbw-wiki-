@@ -1,7 +1,7 @@
 # Добро пожаловать на WIKI ProjectBW
 
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
-![projectbw logo](/images/hero.png)
+![projectbw logo](https://wiki.projectbw.ru/images/hero.png)
 
 ProjectBW - Сетка игровых серверов Beautiful World. далее просто BW
 
@@ -19,7 +19,7 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 
 ## Recreation
 
-![rc](/images/rc/rc1920х600.jpg)
+![rc](https://wiki.projectbw.ru/images/rc/rc1920х600.jpg)
 
 ### **Полезные ссылки**
 
