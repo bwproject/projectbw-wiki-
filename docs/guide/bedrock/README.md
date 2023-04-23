@@ -1,6 +1,6 @@
 # Привязка Minecraft: Java & Bedrock Edition
 
-![Bedrock mc](/images/bedrock/pre.png)
+![Bedrock mc](https://wiki.projectbw.ru/images/bedrock/pre.png)
 
 
 На нашем сервере можно играть как с `Java`, так и с `Bedrock` Edition.
@@ -41,13 +41,13 @@ Bedrock-версия - `.player322`
 /linkaccount .TheMrMes1094036
 ```
 
-![Bedrock mc1](/images/bedrock/mc1.jpg)
+![Bedrock mc1](https://wiki.projectbw.ru/images/bedrock/mc1.jpg)
 
 Система нам выдаст следующее сообщение: ***`«Для связки аккаунтов зайдите с Bedrock и введите команду ***/linkaccount» (Ник Java [player]) (код)»`***
 
 Пример кода:
 
-![Bedrock mc2](/images/bedrock/mc2.jpg)
+![Bedrock mc2](https://wiki.projectbw.ru/images/bedrock/mc2.jpg)
 
 
 ## 3 Подтверждение привязки аккаунтов !
@@ -61,8 +61,8 @@ Bedrock-версия - `.player322`
 /linkaccount The_Mr_Mes109 1774
 ```
 
-![Bedrock mc3](/images/bedrock/mc3.jpg)
+![Bedrock mc3](https://wiki.projectbw.ru/images/bedrock/mc3.jpg)
 
 Теперь ваши аккаунты связаны и вы получите такое сообщение:
 
-![Bedrock mc4](/images/bedrock/mc4.jpg)
+![Bedrock mc4](https://wiki.projectbw.ru/images/bedrock/mc4.jpg)
