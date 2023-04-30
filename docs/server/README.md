@@ -17,10 +17,10 @@
 
 ***`Сервер «Hub»`*** : [Сервер «Hub»](https://wiki.projectbw.ru/server/hub)
 
-## SkyBlock / OneBlock 
+## SkyBlock
 ![projectbw SB](https://projectbw.ru/banner/banner.php?preset=SB)
 
-Сервер «SkyBlock/OneBlock» - уже скоро ... 
+Сервер «SkyBlock» - уже скоро ... 
 
 ***`Сервер «Hub»`*** : [Сервер «SkyBlock»](https://wiki.projectbw.ru/server/skyblock)
 
