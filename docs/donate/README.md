@@ -8,7 +8,7 @@
 ## Обмен валюты на сервере
 
 ### Сurrency
-![Rub](https://wiki.projectbw.ru/images/donate/rub.png)
+![Rub](https://wiki.projectbw.ru/images/donate/Rub.png)
 
 Курс валюты STONSK
 
