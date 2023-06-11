@@ -4,17 +4,18 @@
 
 На сервере используеться плагин InteractiveChat
 Вы можете показать игрокам свой предмет/инвентарь/cундук/уровень/и т.д
+Так же это все дублируеться в дискорд чат сервера
 
-List of Chat Placeholders:
-1. "[item]" Show the Item you are holding in the chat!
-2. "[inv]" - Show your Inventory in the chat!
-3. "[ender]" Show your Ender Chest in the chat!
-4. "[money]" - Show the amount of money you have in the chat!
-5. "[loohpjames]" - Link to author's website!
-6. "[gametime]" - Shows the current time of the world you are in! 7. "[Hover]" - Example Hover Text
-8. "[time]" Shows the current time of the server in the real world! -
-9. "[pos]" - Shows your current position!
-10. "[ping]" - Shows your current ping!
+Пиши в чат [Название]
+Примеры:
+1. "[item]" - Покажите предмет, который вы держите, в чате!
+2. "[inv]" - Покажи свой инвентарь в чате!
+3. "[ender]" - Покажи свой Cундук Эндера в чате!
+4. "[money]" - Покажите количество денег, которое у вас есть в чате!
+5. "[gametime]" - Показывает текущее время мира, в котором вы находитесь! 
+6. "[time]" - Показывает текущее время сервера в реальном мире!
+7. "[pos]" - Показывает ваше текущее положение!
+8. "[ping]" - Показывает ваш текущий пинг!
 
 ## Общие команды
 
