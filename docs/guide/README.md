@@ -11,5 +11,5 @@
 
 ## Чат на сервере 
 
-`Чат на сервере` : [Регистрация/Авторизация на сервере](https://wiki.projectbw.ru/guide/chat)
+`Чат на сервере` : [Чат на серверах ProjectBW](https://wiki.projectbw.ru/guide/chat)
 
