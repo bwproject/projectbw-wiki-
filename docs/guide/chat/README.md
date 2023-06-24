@@ -33,7 +33,15 @@
 7. "[pos]" - Показывает ваше текущее положение!
 8. "[ping]" - Показывает ваш текущий пинг!
 
+## Синхронизация чатов с Discord
+
+На сервере все чаты связанны с дискорд каналами
+
+
+![Discord](https://wiki.projectbw.ru/images/chat/discord.png)
+
 ## Скриншоты
+На скриншотах показанно как работает показ предметов в чате
 
 1. "[item]" - Покажите предмет, который вы держите, в чате!
 
@@ -43,6 +51,8 @@
 
 ![item3](https://wiki.projectbw.ru/images/chat/item3.png)
 
+![item4](https://wiki.projectbw.ru/images/chat/item4.png)
+
 2. "[inv]" - Покажи свой инвентарь в чате!
 
 ![inv1](https://wiki.projectbw.ru/images/chat/inv1.png)
@@ -51,9 +61,5 @@
 
 ![inv3](https://wiki.projectbw.ru/images/chat/inv3.png)
 
-## Синхронизация чатов с Discord
+![inv4](https://wiki.projectbw.ru/images/chat/inv4.png)
 
-На сервере все чаты связанны с дискорд каналами
-
-
-![Discord](https://wiki.projectbw.ru/images/chat/discord.png)
