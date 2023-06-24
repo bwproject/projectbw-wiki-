@@ -1,3 +1,5 @@
+# Чат на серверах ProjectBW
+
 ## Виды чата на сервере
 
 ![chat](https://wiki.projectbw.ru/images/chat/chat.png)
