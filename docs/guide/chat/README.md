@@ -43,7 +43,7 @@
 ## Скриншоты
 На скриншотах показанно как работает показ предметов в чате
 
-1. "[item]" - Покажите предмет, который вы держите, в чате!
+### "[item]" - Покажите предмет, который вы держите, в чате!
 
 ![item1](https://wiki.projectbw.ru/images/chat/item1.png)
 
@@ -53,7 +53,7 @@
 
 ![item4](https://wiki.projectbw.ru/images/chat/item4.png)
 
-2. "[inv]" - Покажи свой инвентарь в чате!
+### "[inv]" - Покажи свой инвентарь в чате!
 
 ![inv1](https://wiki.projectbw.ru/images/chat/inv1.png)
 
