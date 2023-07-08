@@ -60,81 +60,85 @@
 
 ### Список плагинов на сервере
 
-AdvancedBan
+`AdvancedBan` - это универсальная система наказаний с предупреждениями, временными предупреждениями, отключением звука, временным отключением звука, банами, временными банами, ip-банами, временными банами и киками.
+Существует также PlayerHistory, чтобы вы могли видеть игроков, прошедших наказания, и
+плагин имеет настраиваемые макеты времени и сообщений, которые автоматически рассчитывают и увеличивают время наказания по определенным причинам.
+AdvancedBan также предоставляет полный файл сообщений, чтобы вы могли изменять и переводить все сообщения, а также подробный файл конфигурации с множеством полезных настроек.
+Это BungeeCord & Bukkit/Spigot-Plugin в одном, и он поддерживает MySQL и локальную встроенную базу данных для обеспечения высокой производительности.
 
-AzLink
+`AzLink`
 
-BanItem 
+`BanItem` - это простой, мощный, легкий и настраиваемый для каждого мира плагин для запрета действий. Основная цель плагина - отключить определенные действия для определенных элементов в конкретных мирах , поддерживая определенные разрешения .
 
-BetterChairs 
+`BetterChairs` 
 
-Chunky
+`Chunky`
 
-ChunkyBorder 
+`ChunkyBorder` 
 
-CoreProtect
+`CoreProtect`
 
-DiscordSRV
+`DiscordSRV`
 
-EasyWhitelist 
+`EasyWhitelist`
 
-Essentials
+`Essentials`
 
-EssentialsChat
+`EssentialsChat`
 
-EssentialsProtect
+`EssentialsProtect`
 
-EssentialsSpawn
+`EssentialsSpawn`
 
-Harbor
+`Harbor`
 
-ImageOnMap
+`ImageOnMap`
 
-LiteEco
+`LiteEco`
 
-LuckPerms
+`LuckPerms`
 
-Multiverse-Core
+`Multiverse-Core`
 
-Multiverse-NetherPortals
+`Multiverse-NetherPortals`
 
-Mu1tiverse-Portals
+`Mu1tiverse-Portals`
 
-NBTAPI
+`NBTAPI`
 
-OpenInv
+`OpenInv`
 
-PlaceholderAPI
+`PlaceholderAPI`
 
-Plan
+`Plan`
 
-PlasmoVoice
+`PlasmoVoice`
 
-ProtocolLib
+`ProtocolLib`
 
-Quests
+`Quests`
 
-QuickShop
+`QuickShop`
 
-SkinsRestorer
+`SkinsRestorer`
 
-spark
+`spark`
 
-Tablist
+`Tablist`
 
-Towny
+`Towny`
 
-TreeAssist
+`TreeAssist`
 
-Vault
+`Vault`
 
-VentureChat
+`VentureChat`
 
-ViaBackwards
+`ViaBackwards`
 
-ViaVersion
+`ViaVersion`
 
-WorldsColor
+`WorldsColor`
 
 ### Команды на сервере
 
