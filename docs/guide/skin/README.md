@@ -3,7 +3,7 @@
 P.s - некоторые окна с кнопки могут поменять свой дизайн 
 
 
-# 1 Для начала зайдите на сайт Projectbw http://projectbw.ru/
+# 1 Для начала зайдите на сайт Projectbw
 
 ![skin1](https://wiki.projectbw.ru/images/skin/skin1.jpg)
 
