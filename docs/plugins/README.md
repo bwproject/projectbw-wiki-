@@ -58,5 +58,83 @@
 
 ## Recreation сервер
 
+### Список плагинов на сервере
+
+`AdvancedBan` - Это универсальная система наказаний с предупреждениями, временными предупреждениями, отключением звука, временным отключением звука, банами, временными банами, ip-банами, временными банами и киками.
+
+`AzLink` - Это подключаемый модуль, созданный для Azuriom, который позволяет связать ваш сервер с веб-сайтом Azuriom простым, быстрым и безопасным способом.
+
+`BanItem` - Это простой, мощный, легкий и настраиваемый для каждого мира плагин для запрета действий. Основная цель плагина - отключить определенные действия для определенных элементов в конкретных мирах , поддерживая определенные разрешения .
+
+`Chunky` - Предварительно генерирует фрагменты быстро, эффективно и безопасно.
+
+`ChunkyBorder` - Надстройка для Chunky , позволяющая создавать границы мира и управлять ими
+
+`CoreProtect` - Это быстрый и эффективный инструмент для регистрации данных и защиты от грифинга. Откат и восстановление любого количества повреждений
+
+`DiscordSRV`
+
+`EasyWhitelist`
+
+`Essentials`
+
+`EssentialsChat`
+
+`EssentialsProtect`
+
+`EssentialsSpawn`
+
+`Harbor`
+
+`ImageOnMap`
+
+`LiteEco`
+
+`LuckPerms`
+
+`Multiverse-Core`
+
+`Multiverse-NetherPortals`
+
+`Mu1tiverse-Portals`
+
+`NBTAPI`
+
+`OpenInv`
+
+`PlaceholderAPI`
+
+`Plan`
+
+`PlasmoVoice`
+
+`ProtocolLib`
+
+`Quests`
+
+`QuickShop`
+
+`SkinsRestorer`
+
+`spark`
+
+`Tablist`
+
+`Towny`
+
+`TreeAssist`
+
+`Vault`
+
+`VentureChat`
+
+`ViaBackwards`
+
+`ViaVersion`
+
+`WorldsColor`
+
+### Команды на сервере
+
 ## SkyBlock сервер 
 
