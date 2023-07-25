@@ -7,16 +7,18 @@ P.s - некоторые окна с кнопки могут поменять с
 
 # 1 Для начала зайдите на сайт Projectbw
 
-![skin1](https://wiki.projectbw.ru/images/skin/skin1.jpg)
-
 `Projectbw.ru` : [projectbw.ru](https://projectbw.ru)
+
+![skin1](https://wiki.projectbw.ru/images/skin/skin1.jpg)
 
 
 # 2 Нажимаем кнопку (Войти в ЛК)
 
+`Войти в Личный Кабинет` : [Войти в Личный Кабинет](https://projectbw.ru/user/login)
+
 ![skin2](https://wiki.projectbw.ru/images/skin/skin2.jpg)
 
-`Войти в Личный Кабинет` : [Войти в Личный Кабинет](https://projectbw.ru/user/login)
+Нас встечает окно авторизации на сайте. Где :
 
 ![skin3](https://wiki.projectbw.ru/images/skin/skin3.jpg)
 
@@ -32,6 +34,7 @@ P.s - если вы используйте лицензию для входа н
 Телеграмм бот @ProjectBW_Support_bot 
 
 `Бот в Телеграмм` : [Support bot](t.me/ProjectBW_Support_bot)
+
 
 # 3 Верху сайта есть кнопка (Изменить Скин)
 
