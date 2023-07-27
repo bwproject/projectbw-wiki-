@@ -62,3 +62,24 @@ P.s - если вы используйте лицензию для входа н
 Теперь нужно перезайти на сервер.
 
 Игру перезапускать не нужно!
+
+
+# Если вы используйте TLauncher
+
+![skin9](https://wiki.projectbw.ru/images/skin/skin9.jpg)
+
+Если вы используйте TLauncher не забудте отключить скины TLaunchera
+
+![skin10](https://wiki.projectbw.ru/images/skin/skin10.jpg)
+
+Заходим в TLauncher ставим галочку на "АККАУНТЫ"
+
+![skin11](https://wiki.projectbw.ru/images/skin/skin11.jpg)
+
+Нажимаем "Настроить аккаунты..."
+
+![skin12](https://wiki.projectbw.ru/images/skin/skin12.jpg)
+
+Отключаем Скины TLaunchera
+
+![skin13](https://wiki.projectbw.ru/images/skin/skin13.jpg)
