@@ -85,6 +85,9 @@ P.s - если вы используйте лицензию для входа н
 ![tskin3](https://wiki.projectbw.ru/images/skin/tskin3.jpg)
 
 
+Спасибо за гайд по скинам TLaunchera Neposak )
+
+
 <!---
 
 ![skin9](https://wiki.projectbw.ru/images/skin/skin9.jpg)
