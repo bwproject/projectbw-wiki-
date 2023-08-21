@@ -6,7 +6,7 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Подпишись на группу в ВК<br>будь в курсе всех новостей</strong>`,
-            	`<strong>vk.com/<br>TheMrMes109</strong>`
+        `<strong>vk.com/<br>TheMrMes109</strong>`
         ]
     },
     {
@@ -22,7 +22,7 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Стримы на твиче<br>подпишись что бы не пропустить</strong>`,
-            	`<strong>twitch.tv/<br>the_mr_mes109</strong>`
+        `<strong>twitch.tv/<br>the_mr_mes109</strong>`
         ]
     },
     {
@@ -38,7 +38,7 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Канал на ютубе<br>Моменты со стримов и нарезки</strong>`,
-            	`<strong>youtube.com/c/<br>TheMrMes109</strong>`
+        `<strong>youtube.com/c/<br>TheMrMes109</strong>`
         ]
     },
     {
@@ -54,7 +54,7 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Тик ток<br>Моменты со стримов</strong>`,
-        	`<strong>tiktok.com/<br>@the_mr_mes109</strong>`
+        `<strong>tiktok.com/<br>@the_mr_mes109</strong>`
         ]
     },
     {
@@ -86,7 +86,7 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Дискорд<br>Общаемся и тд</strong>`,
-            	`<strong>discord.com/invite/<br>qQ2F9dP</strong>`
+        `<strong>discord.com/invite/<br>qQ2F9dP</strong>`
         ]
     },
     {
@@ -102,8 +102,9 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Сервер в Minecraft<br>Заходи к нам</strong>`,
-           	`<strong>PROJECTBW 1.16.5 <br>PROJECTBW.RU</strong>`,
+        `<strong>PROJECTBW 1.20 <br>MC.PROJECTBW.RU</strong>`,
 		`<strong>IP: <br>mc.projectbw.ru</strong>`
+		`<strong>Сайт сервера: <br>mc.projectbw.ru</strong>`
         ]
     },
     {
@@ -113,13 +114,31 @@ const banners = [
         ]
     },
 	{
+        name: "Gmod",
+        img: "./img/gmod-server.svg",
+        background: "background: #00fffb",
+        colorText: "#fff",
+        dynamicText: [
+		`<strong>Сервер в Garrys Mod<br>Заходи к нам</strong>`,
+        `<strong>Prop Hunt Сервер <br>GMOD.PROJECTBW.RU</strong>`,
+		`<strong>IP: <br>gmod.projectbw.ru</strong>`
+		`<strong>Сайт сервера: <br>gmod.projectbw.ru</strong>`
+        ]
+    },
+    {
+        name: "empy7",
+        colorText: "#fff",
+        dynamicText: [
+        ]
+    },	
+	{
         name: "SITE",
         img: "./img/comment-dots-solid.svg",
         background: "background: #66ff00",
         colorText: "#fff",
         dynamicText: [
 		`<strong>Мой сайт визитка<br>Много полезной информации</strong>`,
-            	`<strong>Заходи смтори<br>themrmes109.ru</strong>`
+        `<strong>Заходи смтори<br>themrmes109.ru</strong>`
         ]
     },
     {
