@@ -66,7 +66,7 @@ const banners = [
     {
         name: "Insta",
         img: "./img/instagram-brands.svg",
-        background: "background: #66ff00",
+        background: "background: #8a3ab9 RGB: 138, 58, 185",
         colorText: "#fff",
         dynamicText: [
 		`<strong>Интаграм<br>Фотки и сторисы</strong>`,
