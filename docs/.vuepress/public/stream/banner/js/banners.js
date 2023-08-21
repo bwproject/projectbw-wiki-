@@ -70,7 +70,7 @@ const banners = [
         colorText: "#fff",
         dynamicText: [
 		`<strong>Интаграм<br>Фотки и сторисы</strong>`,
-        	`<strong>instagram.com/<br>the_mr_mes109</strong>`
+        `<strong>instagram.com/<br>the_mr_mes109</strong>`
         ]
     },
     {
@@ -103,7 +103,7 @@ const banners = [
         dynamicText: [
 		`<strong>Сервер в Minecraft<br>Заходи к нам</strong>`,
         `<strong>PROJECTBW 1.20 <br>MC.PROJECTBW.RU</strong>`,
-		`<strong>IP: <br>mc.projectbw.ru</strong>`
+		`<strong>IP: <br>mc.projectbw.ru</strong>`,
 		`<strong>Сайт сервера: <br>mc.projectbw.ru</strong>`
         ]
     },
@@ -121,7 +121,7 @@ const banners = [
         dynamicText: [
 		`<strong>Сервер в Garrys Mod<br>Заходи к нам</strong>`,
         `<strong>Prop Hunt Сервер <br>GMOD.PROJECTBW.RU</strong>`,
-		`<strong>IP: <br>gmod.projectbw.ru</strong>`
+		`<strong>IP: <br>gmod.projectbw.ru</strong>`,
 		`<strong>Сайт сервера: <br>gmod.projectbw.ru</strong>`
         ]
     },
