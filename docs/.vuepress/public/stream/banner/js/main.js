@@ -63,7 +63,7 @@ new Vue({
             currentBanner: {},
 
             interval: false,
-            intervalMs: 13000,
+            intervalMs: 30000,
             intervalCurrentIdx: 0,
 
             isVisibleBanner: false,
