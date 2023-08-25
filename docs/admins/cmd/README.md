@@ -16,8 +16,16 @@
 
 ### Белый список игроков
 
-/easywl add НИК
+/easywl add НИК - добавить игрока в WL
 
-/easywl remove НИК
+/easywl remove НИК - удалить игрока из WL
+
+/easywl on - включить WL
+
+/easywl off - выключит WL
+
+### Откат мира и инвентаря игрока
+
+/co rollback (Ник) action:-inventory time:1m - откатывает инвентарь на заданное время 
 
 
