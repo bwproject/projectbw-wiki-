@@ -4,13 +4,13 @@
 
 ### Пароли игроков 
 
-/forceunregister - Force Unregister Account Command
+/forceunregister - Принудительно отменить регистрацию учетной записи
 
-/forcechangepassword - Force Change Account Password Command
+/forcechangepassword -  Принудительное изменение пароля учетной записи
 
-/forceregister - Force Registration Account Command
+/forceregister -  Принудительная регистрация учетной записи
 
-/lauth reload - Reload Plugin Comman
+/lauth reload -  Перезагрузить плагин
 
 ## RC
 
@@ -31,5 +31,9 @@
 ### ЛакиПерм 
 
 /lp editor - открыть web версию редактора  
+
+### Баны Муты Кики
+
+
 
 
