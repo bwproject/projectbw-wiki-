@@ -1,8 +1,8 @@
 # Команды для админов сервера
 
-# VELOCITY
+## VELOCITY
 
-## Пароли игроков 
+### Пароли игроков 
 
 /forceunregister - Force Unregister Account Command
 
@@ -12,8 +12,12 @@
 
 /lauth reload - Reload Plugin Comman
 
-# RC
+## RC
 
-## БЕЛЫЙ ЛИСТ ИГРОКОВ
+### Белый список игроков
+
+/easywl add НИК
+
+/easywl remove НИК
 
 
