@@ -1,24 +1,24 @@
 # Сервера projectbw
-![projectbw all](https://banner.projectbw.ru/banner.php?preset=BW)
+![projectbw all](https://banner.projectbw.ru/banner.php?preset=MC.PROJECTBW.RU)
 
 На проекте BW есть разные сервера с режимами игры
 
 ## Recreation
-![projectbw RC](https://banner.projectbw.ru/banner.php?preset=RC)
+![projectbw RC](https://banner.projectbw.ru/banner.php?preset=RC.PROJECTBW.RU)
 
 Сервер «Recreation» или ваша личная зона отдыха после дневной рутины!
 
 ***`Сервер «Recreation»`*** : [Сервер «Recreation»](https://wiki.projectbw.ru/server/recreation)
 
 ## Hub
-![projectbw HUB](https://banner.projectbw.ru/banner.php?preset=HUB)
+![projectbw HUB](https://banner.projectbw.ru/banner.php?preset=HUB.PROJECTBW.RU)
 
 Сервер «Hub» - предназначен для соеденения всех серверов Minecraft projectbw
 
 ***`Сервер «Hub»`*** : [Сервер «Hub»](https://wiki.projectbw.ru/server/hub)
 
 ## SkyBlock
-![projectbw SB](https://banner.projectbw.ru/banner.php?preset=SB)
+![projectbw SB](https://banner.projectbw.ru/banner.php?preset=SB.PROJECTBW.RU)
 
 Сервер «SkyBlock» - уже скоро ... 
 
