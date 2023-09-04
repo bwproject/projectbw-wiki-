@@ -36,3 +36,7 @@
 ### Плагин «LevelledMobs» или более сложные мобы на сервере
 
 `Плагин «LevelledMobs»` : [Плагин «LevelledMobs» или более сложные мобы на сервере](https://wiki.projectbw.ru/guide/levelledmobs)
+
+### Плагин «MiniBlocks» добавляет в Minecraft крафт «Мини-блоков»!
+
+`Плагин «MiniBlocks»` : [Плагин «MiniBlocks» добавляет в Minecraft крафт «Мини-блоков»!](https://wiki.projectbw.ru/guide/miniblocks)
