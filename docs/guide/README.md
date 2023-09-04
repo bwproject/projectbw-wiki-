@@ -21,7 +21,7 @@
 
 `Чат на сервере` : [Чат на серверах ProjectBW](https://wiki.projectbw.ru/guide/chat)
 
-## Cерверо Minecraft `Recreation`
+## Cервер Minecraft `Recreation`
 
 В этом разделе написсаны  гайды по серверу Recreation
 
