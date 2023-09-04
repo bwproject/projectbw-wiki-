@@ -1,4 +1,5 @@
-# Сервера на сервере projectbw
+# Сервера и режимы BW
+
 ## MINECRAFT
 ![projectbw all](https://banner.projectbw.ru/banner.php?preset=MC.PROJECTBW.RU)
 
@@ -45,5 +46,7 @@
 Сервер «SkyBlock» - уже скоро ... 
 
 ***`Сервер «Hub»`*** : [Сервер «SkyBlock»](https://wiki.projectbw.ru/server/skyblock)
+
+## GARRY’S MOD
 
 
