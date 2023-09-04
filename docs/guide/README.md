@@ -32,3 +32,7 @@
 ### Плагин «AureliumSkills» или уникальные способности на сервере
 
 `Плагин «AureliumSkills»` : [Плагин «AureliumSkills» или уникальные способности на сервере](https://wiki.projectbw.ru/guide/aureliumskills)
+
+### Плагин «LevelledMobs» или более сложные мобы на сервере
+
+`Плагин «LevelledMobs»` : [Плагин «LevelledMobs» или более сложные мобы на сервере](https://wiki.projectbw.ru/guide/levelledmobs)
