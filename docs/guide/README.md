@@ -21,10 +21,14 @@
 
 `Чат на сервере` : [Чат на серверах ProjectBW](https://wiki.projectbw.ru/guide/chat)
 
-## Cерверо Minecraft `Recreation`
+## Cервер Minecraft `Recreation`
 
 В этом разделе написсаны  гайды по серверу Recreation
 
 ### Плагин «Towny» и как с ним взаимодействовать
 
-`Плагин «Towny»` : [Чат на серверах ProjectBW](https://wiki.projectbw.ru/guide/towny)
+`Плагин «Towny»` : [Плагин «Towny» и как с ним взаимодействовать](https://wiki.projectbw.ru/guide/towny)
+
+### Плагин «AureliumSkills» или уникальные способности на сервере
+
+`Плагин «AureliumSkills»` : [Плагин «AureliumSkills» или уникальные способности на сервере](https://wiki.projectbw.ru/guide/aureliumskills)
