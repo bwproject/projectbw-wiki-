@@ -5,6 +5,8 @@
 
 На проекте BW есть разные сервера с режимами игры
 
+***
+
 ### Recreation
 ![projectbw RC](https://banner.projectbw.ru/banner.php?preset=RC.PROJECTBW.RU)
 
@@ -33,6 +35,10 @@
 Возрастное ограничение игроков: 14+
 Администрация: 21+
 
+***
+
+***
+
 ### Hub
 ![projectbw HUB](https://banner.projectbw.ru/banner.php?preset=HUB.PROJECTBW.RU)
 
@@ -40,12 +46,18 @@
 
 ***`Сервер «Hub»`*** : [Сервер «Hub»](https://wiki.projectbw.ru/server/hub)
 
+***
+
+***
+
 ### SkyBlock
 ![projectbw SB](https://banner.projectbw.ru/banner.php?preset=SB.PROJECTBW.RU)
 
 Сервер «SkyBlock» - уже скоро ... 
 
 ***`Сервер «Hub»`*** : [Сервер «SkyBlock»](https://wiki.projectbw.ru/server/skyblock)
+
+***
 
 ## GARRY’S MOD
 
