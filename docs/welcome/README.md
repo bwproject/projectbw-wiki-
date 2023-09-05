@@ -57,7 +57,7 @@ WiKi специально для серверов BW написал:
 
 **Aquamarin_Riate**
 
-![Aquamarin_Riate])https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate
+![Aquamarin_Riate](https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate
 
 `За редактирование текста WiKi`
 
