@@ -39,25 +39,25 @@ WiKi специально для серверов BW написал:
 
 **The_Mr_Mes109** 
 
-![ava](https://mc.projectbw.ru/api/skin-api/avatars/face/{user_id})
+![The_Mr_Mes109](https://mc.projectbw.ru/api/skin-api/avatars/face/The_Mr_Mes109)
 
 Отдельное спасибо:
 
 **The_Ms_Mes109**
 
-![ava](https://mc.projectbw.ru/api/skin-api/avatars/face/{user_id}
+![The_Ms_Mes109](https://mc.projectbw.ru/api/skin-api/avatars/face/The_Ms_Mes109)
 
 **accountbyben**
 
-![ava](https://mc.projectbw.ru/api/skin-api/avatars/face/{user_id}
+![accountbyben](https://mc.projectbw.ru/api/skin-api/avatars/face/accountbyben)
 
 **Neposak**
 
-![ava](https://mc.projectbw.ru/api/skin-api/avatars/face/{user_id}
+![Neposak](https://mc.projectbw.ru/api/skin-api/avatars/face/Neposak)
 
 **Aquamarin_Riate**
 
-![Aquamarin_Riate](https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate
+![Aquamarin_Riate](https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate)
 
 `За редактирование текста WiKi`
 
