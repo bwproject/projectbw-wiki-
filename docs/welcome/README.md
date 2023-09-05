@@ -46,19 +46,30 @@ The_Mr_Mes109
 
 ### Отдельное спасибо:
 
-**The_Ms_Mes109**
+```
+The_Ms_Mes109
+```
 
 ![The_Ms_Mes109](https://mc.projectbw.ru/api/skin-api/avatars/face/The_Ms_Mes109)
 
-**accountbyben**
+
+```
+accountbyben
+```
 
 ![accountbyben](https://mc.projectbw.ru/api/skin-api/avatars/face/accountbyben)
 
-**Neposak**
+
+```
+Neposak
+```
 
 ![Neposak](https://mc.projectbw.ru/api/skin-api/avatars/face/Neposak)
 
-**Aquamarin_Riate**
+
+```
+Aquamarin_Riate
+```
 
 ![Aquamarin_Riate](https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate)
 
