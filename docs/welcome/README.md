@@ -40,9 +40,9 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 
 ```
 **The_Mr_Mes109** 
+```
 
 ![The_Mr_Mes109](https://mc.projectbw.ru/api/skin-api/avatars/face/The_Mr_Mes109)
-```
 
 ### Отдельное спасибо:
 
