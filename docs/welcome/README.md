@@ -73,7 +73,7 @@ Recreation - Приватный Minecraft Сервер. далее просто 
 ***
 
 ***
-**Aquamarin_Riate**
+**Aquamarin_Riate** 
 
 ![Aquamarin_Riate](https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate)
 
