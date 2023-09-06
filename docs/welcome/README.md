@@ -23,7 +23,9 @@ SkyBlock Сервер - Сервер Minecraft с режимом игры выж
 
 ## **Полезные ссылки BW**
 
-`Сайт` : [ProjectBW](https://projectbw.ru/)
+`Сайт сервера Minecraft` : [ProjectBW](https://mc.projectbw.ru/)
+
+`Сайт сервера Garry’s Mod` : [ProjectBW](https://gmod.projectbw.ru/)
 
 `Группа ВК` : [VK](https://vk.com/projectbw)
 
