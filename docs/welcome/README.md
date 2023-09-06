@@ -3,9 +3,15 @@
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![projectbw logo](https://wiki.projectbw.ru/images/hero.png)
 
+## Основные термины и сокращения на сервере
+
+### Название серверов
+
 ProjectBW - Сеть игровых серверов Beautiful World. далее просто BW
 
 Recreation - Приватный Minecraft Сервер. далее просто RC
+
+SkyBlock Сервер - Сервер Minecraft с режимом игры выживание на острове. далее просто SB
 
 ## У нас есть сервера в Minecraft и Garry’s Mod
 
