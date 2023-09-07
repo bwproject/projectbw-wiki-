@@ -3,9 +3,13 @@
 <!-- you don't need to prepend `/bar/` to `/images/hero.png` manually -->
 ![projectbw logo](https://wiki.projectbw.ru/images/hero.png)
 
-## **Project Beautiful World** 
+## Основная информация
+
+### **Project Beautiful World** 
 
 Это сеть игровых серверов по многим играм
+
+### **Recreation**
 
 Recreation это отдельный сервер на проекте со своей
 инфраструктурой и правилами которые отличаются от серверов BW
