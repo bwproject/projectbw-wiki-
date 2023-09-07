@@ -13,7 +13,7 @@
 Паравила и ссылку на подачу заявки на сервер
 Recreation вы найдите в разделе :
 
-> `**Полезные ссылки Recreation**` : [Полезные ссылки Recreation](https://wiki.projectbw.ru/welcome/#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-rc)
+> `Полезные ссылки Recreation` : [Полезные ссылки Recreation](https://wiki.projectbw.ru/welcome/#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-rc)
 
 
 ***
@@ -34,7 +34,7 @@ SkyBlock Сервер - Сервер Minecraft с режимом игры выж
 
 [Сервера и режимы BW](https://wiki.projectbw.ru/server/)
 
-
+***
 
 ## **Полезные ссылки BW**
 
@@ -80,13 +80,9 @@ SkyBlock Сервер - Сервер Minecraft с режимом игры выж
 
 ***
 
-***
-
 **accountbyben**
 
 ![accountbyben](https://mc.projectbw.ru/api/skin-api/avatars/face/accountbyben)
-
-***
 
 ***
 
@@ -96,7 +92,6 @@ SkyBlock Сервер - Сервер Minecraft с режимом игры выж
 
 ***
 
-***
 **Aquamarin_Riate** 
 
 ![Aquamarin_Riate](https://mc.projectbw.ru/api/skin-api/avatars/face/Aquamarin_Riate)
@@ -105,4 +100,4 @@ SkyBlock Сервер - Сервер Minecraft с режимом игры выж
 
 `За редактирование текста WiKi`
 
-
+***
