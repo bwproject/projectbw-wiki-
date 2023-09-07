@@ -13,7 +13,7 @@
 Паравила и ссылку на подачу заявки на сервер
 Recreation вы найдите в разделе :
 
-> '**Полезные ссылки Recreation**' : [Recreation](https://wiki.projectbw.ru/welcome/#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-rc)
+> '**Полезные ссылки Recreation**' : [Полезные ссылки Recreation](https://wiki.projectbw.ru/welcome/#%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-rc)
 
 
 ***
@@ -38,23 +38,24 @@ SkyBlock Сервер - Сервер Minecraft с режимом игры выж
 
 ## **Полезные ссылки BW**
 
-`Сайт сервера Minecraft` : [ProjectBW](https://mc.projectbw.ru/)
+> `Сайт сервера Minecraft` : [ProjectBW](https://mc.projectbw.ru/)
 
-`Сайт сервера Garry’s Mod` : [ProjectBW](https://gmod.projectbw.ru/)
+> `Сайт сервера Garry’s Mod` : [ProjectBW](https://gmod.projectbw.ru/)
 
-`Группа ВК` : [VK](https://vk.com/projectbw)
+> `Группа ВК` : [VK](https://vk.com/projectbw)
 
 
 ## **Полезные ссылки RC**
 
-`Сайт` : [Recreation](https://recreation.projectbw.ru)
+> `Сайт` : [Recreation](https://recreation.projectbw.ru)
 
-`Группа ВК` : [VK](https://vk.com/recreation_mine)
+> `Группа ВК` : [VK](https://vk.com/recreation_mine)
 
-`Дискорд` : [Discord](https://discord.gg/WQJcsysUmN)
+> `Дискорд` : [Discord](https://discord.gg/WQJcsysUmN)
 
-`Правила сервера` : [Правила сервера](https://vk.com/@recreation_mine-prvila-servera-recreation)
+> `Правила сервера` : [Правила сервера](https://vk.com/@recreation_mine-prvila-servera-recreation)
 
+> 'Как подать заявку на RC' :
 
 ## WiKi было сделанно на движке `VuePress`
 [VuePress](https://vuepress.vuejs.org/)
