@@ -1,16 +1,16 @@
 # Телеграм боты
 У нас есть несколько ботов для телеграмм
 
-## [Support bot](t.me/ProjectBW_Support_bot)
+## [Support bot](https://t.me/ProjectBW_Support_bot)
 
 Бот для поддержки пользователей
 
 
-## [ProjectBW bot](t.me/ProjectBW)
+## [ProjectBW bot](https://t.me/ProjectBW)
 
 Бот для связи игрового аккаунта с телеграмом 
 
-## [Recreation WhiteList Bot](t.me/rc_wl_bot) 
+## [Recreation WhiteList Bot](https://t.me/rc_wl_bot) 
 
 Бот для отправки заявки на сервер
 
