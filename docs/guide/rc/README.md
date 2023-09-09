@@ -21,5 +21,22 @@
 
 ![vk3](https://wiki.projectbw.ru/images/rc/vk3.jpg)
 
+Это должно выглядить примерно вот так 
+
+![vk4](https://wiki.projectbw.ru/images/rc/vk4.jpg)
+
+![vk5](https://wiki.projectbw.ru/images/rc/vk5.jpg)
+
+Нажмите кнопку **Отправить**
+
+Вы должны увидеть **Ваш ответ отправлен**
+
+![vk6](https://wiki.projectbw.ru/images/rc/vk6.jpg)
+
+### 3 Ждем ответ администрации сервера
+
+Ваша заявка отправлена. Теперь вам нужно ждать ответ администрации сервера
+
+![vk7](https://wiki.projectbw.ru/images/rc/vk7.jpg)
 
 ## Телеграмм бот
