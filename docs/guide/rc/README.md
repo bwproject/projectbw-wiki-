@@ -3,8 +3,23 @@
 
 ## Группа в вк
 
-Вк https://vk.com/recreation_mine
+> `Группа ВК` : [Группа ВК](https://vk.com/recreation_mine)
 
-Ссылка на заявку https://vk.com/app5619682_-213725646
+> `Заявка на сервер` : [Заявка на сервер](https://vk.com/recreation_mine)
+
+### 1 Зайдите в группу в вк
+
+Зайдите в группу в вк и найдите кнопку заявка или перейдите по ссылке выше
+
+![vk1](https://wiki.projectbw.ru/images/rc/vk1.jpg)
+
+### 2 Заполните все поля в заявке
+
+Заполняем все поля в заявке
+
+![vk2](https://wiki.projectbw.ru/images/rc/vk2.jpg)
+
+![vk3](https://wiki.projectbw.ru/images/rc/vk3.jpg)
+
 
 ## Телеграмм бот
