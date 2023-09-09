@@ -25,6 +25,10 @@
 
 В этом разделе написсаны  гайды по серверу Recreation
 
+### Как подать заявку на сервер Recreation
+
+`Как подать заявку на сервер Recreation` : [Как подать заявку на сервер Recreation](https://wiki.projectbw.ru/guide/rc)
+
 ### Плагин «Towny» и как с ним взаимодействовать
 
 `Плагин «Towny»` : [Плагин «Towny» и как с ним взаимодействовать](https://wiki.projectbw.ru/guide/towny)
