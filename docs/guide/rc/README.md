@@ -39,4 +39,8 @@
 
 ![vk7](https://wiki.projectbw.ru/images/rc/vk7.jpg)
 
+После того как администрации расмотрит вашу заявку вам придет ответ 
+
+![vk8](https://wiki.projectbw.ru/images/rc/vk8.jpg)
+
 ## Телеграмм бот
