@@ -13,20 +13,23 @@
 
 ***018d89c6-9c71-fe3e-fe06-3e769db304f4***
 
-Сборка из 15 модов 7 из них это библиотеки для модов и 2 мода на русификатор
+### Русификатор
 
-P.S Возможно разделю списко на Библиотеки для модов и Моды
+#### 1 
 
+RTLC_Russian_Translation
 
-### 1 Мод
+RTLC Russian Translation Mods
 
-BepInExPack
- 
-Главный мод для запуска всех модов
+Русификатор
 
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/)
 
-### 2 Мод
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/)
+
+### Библиотеки и API для модов
+
+#### 1
 
 XUnity_AutoTranslator
 
@@ -34,23 +37,7 @@ XUnity_AutoTranslator
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/)
 
-### 3 Мод
-
-RTLC_Russian_Translation
-
-Русификатор
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/)
-
-### 4 Мод
-
-RTLC Russian Translation Mods
-
-Русификатор
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/)
-
-### 5 Мод
+#### 2
 
 Runtime_Netcode_Patcher
 
@@ -58,7 +45,50 @@ Runtime_Netcode_Patcher
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
 
-### 6 Мод
+#### 3
+
+LC_API
+
+Библиотека
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+
+#### 4 
+
+AdditionalContentFramework
+
+Библиотека
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
+
+#### 5
+
+LethalCompany_InputUtils
+
+Библиотека
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+
+#### 6
+
+TerminalApi
+
+Библиотека
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
+
+### Моды
+
+#### 1 
+
+BepInExPack
+ 
+Главный мод для запуска всех модов
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+
+
+#### 2
 
 More_Emotes
 
@@ -66,7 +96,7 @@ More_Emotes
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 
-### 7 Мод
+#### 3 
 
 ShipLoot
 
@@ -75,23 +105,7 @@ ShipLoot
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 
 
-### 8 Мод
-
-LC_API
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
-
-### 9 Мод
-
-AdditionalContentFramework
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
-
-### 10 Мод
+#### 4
 
 AdditionalSuits
 
@@ -99,7 +113,7 @@ AdditionalSuits
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
 
-### 11 Мод
+#### 5
 
 YoutubeBoombox
 
@@ -107,23 +121,8 @@ YoutubeBoombox
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamIchy/YoutubeBoombox/)
 
-### 12 Мод
 
-LethalCompany_InputUtils
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
-
-### 13 Мод
-
-TerminalApi
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
-
-### 14 Мод
+#### 6
 
 LethalAutocomplete
 
@@ -137,7 +136,16 @@ Tab – автозаполнение (нажмите еще раз, чтобы �
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/)
 
-### 15 Мод
+
+#### 7
+
+LethalFashion
+
+Сразу же бесплатно разблокирует все костюмы базовой игры.
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
+
+#### 8
 
 HDLethalCompany
 
@@ -145,13 +153,13 @@ HDLethalCompany
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
 
-### 16 Мод
+#### 9
 
-LethalFashion
+YippeeMod
 
-Сразу же бесплатно разблокирует все костюмы базовой игры.
+Меняет звук таракана на ЮЮЮЮПИИИ
 
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
 
 ## Устоновка
