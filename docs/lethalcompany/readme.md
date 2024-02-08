@@ -26,144 +26,92 @@
 ### Библиотеки и API для модов
 
 #### Библиотека 1
-
-XUnity_AutoTranslator
-
-Библиотека для русификатора
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/)
+- XUnity_AutoTranslator
+- Библиотека для русификатора
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/)
 
 #### Библиотека 2
-
-Runtime_Netcode_Patcher
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
+- Runtime_Netcode_Patcher
+- Библиотека
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
 
 #### Библиотека 3
-
-LC_API
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
+- LC_API
+- Библиотека
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
 
 #### Библиотека 4 
-
-AdditionalContentFramework
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
+- AdditionalContentFramework
+- Библиотека
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
 
 #### Библиотека 5
-
-LethalCompany_InputUtils
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+- LethalCompany_InputUtils
+- Библиотека
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 
 #### Библиотека 6
-
-TerminalApi
-
-Библиотека
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
+- TerminalApi
+- Библиотека
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
 
 ### Моды
 
 #### Мод 1 
-
-BepInExPack
- 
-Главный мод для запуска всех модов
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+- BepInExPack
+- Главный мод для запуска всех модов
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 
 
 #### Мод 2
-
-More_Emotes
-
-Больше эмоций для игрока
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
+- More_Emotes
+- Больше эмоций для игрока
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 
 #### Мод 3 
-
-ShipLoot
-
-Отображает цену всего лута на корабле
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+- ShipLoot
+- Отображает цену всего лута на корабле
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 
 
 #### Мод 4
-
-AdditionalSuits
-
-Добавляет еще 8 стандартных костюмов в ваш первоначальный гардероб в начале игры! Отлично подходит для организации больших команд
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
+- AdditionalSuits
+- Добавляет еще 8 стандартных костюмов в ваш первоначальный гардероб в начале игры! Отлично подходит для организации больших команд
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
 
 #### Мод 5
-
-YoutubeBoombox
-
-Воспроизведите любое видео с YouTube через бумбокс! Синхронизируется со всеми игроками (у которых есть мод)!
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamIchy/YoutubeBoombox/)
+- YoutubeBoombox
+- Воспроизведите любое видео с YouTube через бумбокс! Синхронизируется со всеми игроками (у которых есть мод)!
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamIchy/YoutubeBoombox/)
 
 
 #### Мод 6
-
-LethalAutocomplete
-
-Этот мод добавляет в игру возможность быстрой печати команд терминала. Также это позволяет просматривать историю команд.
+- LethalAutocomplete
+- Этот мод добавляет в игру возможность быстрой печати команд терминала. Также это позволяет просматривать историю команд.
 
 Tab – автозаполнение (нажмите еще раз, чтобы распечатать другие результаты), используйте Esc для выхода из терминала
 
 Стрелка вверх — предыдущая команда
 
 Стрелка вниз — следующая команда
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/)
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/)
 
 
 #### Мод 7
-
-LethalFashion
-
-Сразу же бесплатно разблокирует все костюмы базовой игры.
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
+- LethalFashion
+- Сразу же бесплатно разблокирует все костюмы базовой игры.
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
 
 #### Мод 8
-
-HDLethalCompany
-
-Дополнительные настройки графики, такие как разрешение, сглаживание, качество тумана и т. д.
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
+- HDLethalCompany
+- Дополнительные настройки графики, такие как разрешение, сглаживание, качество тумана и т. д.
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
 
 #### Мод 9
+- YippeeMod
+- Меняет звук таракана на ЮЮЮЮПИИИ
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
-YippeeMod
-
-Меняет звук таракана на ЮЮЮЮПИИИ
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
-
-#### Мод 10
-
-YippeeMod
-
-Меняет звук таракана на ЮЮЮЮПИИИ
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
 ## Устоновка
 
