@@ -17,15 +17,11 @@
 
 #### Русификатор 1 
 
-RTLC_Russian_Translation
-
-RTLC Russian Translation Mods
-
-Русификатор
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/)
-
-[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/)
+- RTLC_Russian_Translation
+- RTLC Russian Translation Mods
+- Русификатор
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation/)
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/RTLC_Russian_Translation_Mods/)
 
 ### Библиотеки и API для модов
 
