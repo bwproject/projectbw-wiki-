@@ -161,7 +161,7 @@ YippeeMod
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
-### 17 мод
+#### 17
 
 YippeeMod
 
