@@ -17,6 +17,8 @@
 
 #### Русификатор 1 
 
+![Русик](https://gcdn.thunderstore.io/live/repository/icons/Hayrizan-RTLC_Russian_Translation-1.2.6.png.128x128_q95.jpg)
+
 - RTLC_Russian_Translation
 - RTLC Russian Translation Mods
 - Русификатор
