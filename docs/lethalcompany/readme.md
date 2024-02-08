@@ -1,6 +1,7 @@
 # Lethal Сompany сборка модов
 
 ***Сборка модов от projectbw.ru для игры Lethal Сompany***
+![Lethallogo](https://wiki.projectbw.ru/images/letal/letallogo.jpg)
 
 ## Cборка
 
