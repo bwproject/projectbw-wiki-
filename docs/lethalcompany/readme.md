@@ -15,7 +15,7 @@
 
 ### Русификатор
 
-#### 1 
+#### Русификатор 1 
 
 RTLC_Russian_Translation
 
@@ -29,7 +29,7 @@ RTLC Russian Translation Mods
 
 ### Библиотеки и API для модов
 
-#### 1
+#### Библиотека 1
 
 XUnity_AutoTranslator
 
@@ -37,7 +37,7 @@ XUnity_AutoTranslator
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/)
 
-#### 2
+#### Библиотека 2
 
 Runtime_Netcode_Patcher
 
@@ -45,7 +45,7 @@ Runtime_Netcode_Patcher
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/)
 
-#### 3
+#### Библиотека 3
 
 LC_API
 
@@ -53,7 +53,7 @@ LC_API
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
 
-#### 4 
+#### Библиотека 4 
 
 AdditionalContentFramework
 
@@ -61,7 +61,7 @@ AdditionalContentFramework
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
 
-#### 5
+#### Библиотека 5
 
 LethalCompany_InputUtils
 
@@ -69,7 +69,7 @@ LethalCompany_InputUtils
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 
-#### 6
+#### Библиотека 6
 
 TerminalApi
 
@@ -79,7 +79,7 @@ TerminalApi
 
 ### Моды
 
-#### 1 
+#### Мод 1 
 
 BepInExPack
  
@@ -88,7 +88,7 @@ BepInExPack
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
 
 
-#### 2
+#### Мод 2
 
 More_Emotes
 
@@ -96,7 +96,7 @@ More_Emotes
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 
-#### 3 
+#### Мод 3 
 
 ShipLoot
 
@@ -105,7 +105,7 @@ ShipLoot
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 
 
-#### 4
+#### Мод 4
 
 AdditionalSuits
 
@@ -113,7 +113,7 @@ AdditionalSuits
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
 
-#### 5
+#### Мод 5
 
 YoutubeBoombox
 
@@ -122,7 +122,7 @@ YoutubeBoombox
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamIchy/YoutubeBoombox/)
 
 
-#### 6
+#### Мод 6
 
 LethalAutocomplete
 
@@ -137,7 +137,7 @@ Tab – автозаполнение (нажмите еще раз, чтобы �
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/)
 
 
-#### 7
+#### Мод 7
 
 LethalFashion
 
@@ -145,7 +145,7 @@ LethalFashion
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
 
-#### 8
+#### Мод 8
 
 HDLethalCompany
 
@@ -153,7 +153,7 @@ HDLethalCompany
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
 
-#### 9
+#### Мод 9
 
 YippeeMod
 
@@ -161,7 +161,7 @@ YippeeMod
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
-#### 17
+#### Мод 10
 
 YippeeMod
 
