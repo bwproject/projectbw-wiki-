@@ -1,16 +1,16 @@
 # Lethal Сompany сборка модов
 
-*** Сборка модов от projectbw.ru для игры Lethal Сompany ***
+***Сборка модов от projectbw.ru для игры Lethal Сompany***
 
 ## Cборка
 
 Версия модов на 08.02.24
 
-Код сборки
+Код сборки ***018d89c6-9c71-fe3e-fe06-3e769db304f4***
 
 ## Cписок модов
 
-*** 018d89c6-9c71-fe3e-fe06-3e769db304f4 ***
+***018d89c6-9c71-fe3e-fe06-3e769db304f4***
 
 ## Устоновка
 
@@ -26,7 +26,7 @@ https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager
 
 ![Lethal1](https://wiki.projectbw.ru/images/letal/letal1.png)
 
-3 Нажимаем кнопку *** Import/Update *** 
+3 Нажимаем кнопку ***Import/Update*** 
 
 ![Lethal2](https://wiki.projectbw.ru/images/letal/letal2.png)
 
@@ -38,7 +38,7 @@ https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager
 
 ![Lethal4](https://wiki.projectbw.ru/images/letal/letal4.png)
 
-6 Пишем код сборки *** 018d89c6-9c71-fe3e-fe06-3e769db304f4 *** и нажимаем Import
+6 Пишем код сборки ***018d89c6-9c71-fe3e-fe06-3e769db304f4*** и нажимаем Import
 
 ![Lethal5](https://wiki.projectbw.ru/images/letal/letal5.png)
 
@@ -46,6 +46,6 @@ https://www.overwolf.com/oneapp/Thunderstore-Thunderstore_Mod_Manager
 
 ![Lethal6](https://wiki.projectbw.ru/images/letal/letal6.png)
 
-8 Можно играть нажав кнопку *** Modded ***
+8 Можно играть нажав кнопку ***Modded***
 
 ![Lethal7](https://wiki.projectbw.ru/images/letal/letal7.png)
