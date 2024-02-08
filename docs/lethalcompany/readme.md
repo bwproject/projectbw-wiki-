@@ -161,6 +161,13 @@ YippeeMod
 
 [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
+### 17 мод
+
+YippeeMod
+
+Меняет звук таракана на ЮЮЮЮПИИИ
+
+[Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
 ## Устоновка
 
