@@ -44,7 +44,7 @@
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
 
 #### Библиотека 4 
-![Библиотека](https://gcdn.thunderstore.io/live/repository/icons/AlexCodesGames-AdditionalContentFramework-1.0.3.png.128x128_q95.jpg:/)
+![Библиотека](https://gcdn.thunderstore.io/live/repository/icons/AlexCodesGames-AdditionalContentFramework-1.0.3.png.128x128_q95.jpg)
 - AdditionalContentFramework
 - Библиотека
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
