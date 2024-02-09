@@ -50,7 +50,7 @@
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalContentFramework/)
 
 #### Библиотека 5
-![Библиотека](https://gcdn.thunderstore.io/live/repository/icons/AlexCodesGames-AdditionalContentFramework-1.0.3.png.128x128_q95.jpg)
+![Библиотека](https://gcdn.thunderstore.io/live/repository/icons/Rune580-LethalCompany_InputUtils-0.6.3.png.128x128_q95.png)
 - LethalCompany_InputUtils
 - Библиотека
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
