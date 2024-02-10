@@ -5,7 +5,7 @@
 
 ## Cборка
 
-Версия модов на 08.02.24
+Версия модов на 10.02.24
 
 Код сборки ***018d89c6-9c71-fe3e-fe06-3e769db304f4***
 
@@ -123,6 +123,12 @@ Tab – автозаполнение (нажмите еще раз, чтобы �
 - YippeeMod
 - Меняет звук таракана на ЮЮЮЮПИИИ
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+
+#### Мод 10
+![Мод](https://gcdn.thunderstore.io/live/repository/icons/sunnobunno-YippeeMod-1.2.3.png.128x128_q95.png](https://gcdn.thunderstore.io/live/repository/icons/notnotnotswipez-MoreCompany-1.8.1.png.128x128_q95.png) 
+- MoreCompany
+- Стабильный мод для увеличения количества игроков в лобби. С косметикой!
+- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
 
 
 ## Установка
