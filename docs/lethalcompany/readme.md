@@ -107,12 +107,6 @@ Tab – автозаполнение (нажмите еще раз, чтобы �
 
 
 #### Мод 7
-![Мод](https://gcdn.thunderstore.io/live/repository/icons/BatTeam-LethalFashion-1.0.6.png.128x128_q95.jpg) 
-- LethalFashion
-- Сразу же бесплатно разблокирует все костюмы базовой игры.
-- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
-
-#### Мод 10
 ![Мод](https://gcdn.thunderstore.io/live/repository/icons/sunnobunno-YippeeMod-1.2.3.png.128x128_q95.png) 
 - YippeeMod
 - Меняет звук таракана на ЮЮЮЮПИИИ
