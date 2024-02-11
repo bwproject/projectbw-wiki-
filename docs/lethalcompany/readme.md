@@ -112,13 +112,7 @@ Tab – автозаполнение (нажмите еще раз, чтобы �
 - Сразу же бесплатно разблокирует все костюмы базовой игры.
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/)
 
-#### Мод 8
-![Мод](https://gcdn.thunderstore.io/live/repository/icons/Sligili-HDLethalCompany-1.5.6.png.128x128_q95.jpg) 
-- HDLethalCompany
-- Дополнительные настройки графики, такие как разрешение, сглаживание, качество тумана и т. д.
-- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)
-
-#### Мод 9
+#### Мод 10
 ![Мод](https://gcdn.thunderstore.io/live/repository/icons/sunnobunno-YippeeMod-1.2.3.png.128x128_q95.png) 
 - YippeeMod
 - Меняет звук таракана на ЮЮЮЮПИИИ
