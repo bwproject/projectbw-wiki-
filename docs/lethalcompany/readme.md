@@ -124,13 +124,6 @@ Tab – автозаполнение (нажмите еще раз, чтобы �
 - Меняет звук таракана на ЮЮЮЮПИИИ
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
-#### Мод 10
-![Мод](https://gcdn.thunderstore.io/live/repository/icons/notnotnotswipez-MoreCompany-1.8.1.png.128x128_q95.png) 
-- MoreCompany
-- Стабильный мод для увеличения количества игроков в лобби. С косметикой!
-- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
-
-
 ## Установка
 
 Для более простой установки модов потребуется лаунчер Thunderstore или r2modman 
