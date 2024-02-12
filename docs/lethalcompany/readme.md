@@ -7,7 +7,7 @@
 
 Версия модов на 10.02.24
 
-Код сборки ***018d9845-40d9-1815-287a-27143477c34a*** от 11.02
+Код сборки ***018d9de5-217b-7a6d-1865-8a40cf51eb95*** от 11.02
 
 ## Cписок модов
 
@@ -55,12 +55,6 @@
 - Библиотека
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 
-#### Библиотека 6
-![Библиотека](https://gcdn.thunderstore.io/live/repository/icons/NotAtomicBomb-TerminalApi-1.5.1.png.128x128_q95.png)
-- TerminalApi
-- Библиотека
-- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
-
 ### Моды
 
 #### Мод 1
@@ -95,18 +89,7 @@
 - Воспроизведите любое видео с YouTube через бумбокс! Синхронизируется со всеми игроками (у которых есть мод)!
 - [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/TeamIchy/YoutubeBoombox/)
 
-
 #### Мод 6
-![Мод](https://gcdn.thunderstore.io/live/repository/icons/red_eye-LethalAutocomplete-0.4.3.png.128x128_q95.png) 
-- LethalAutocomplete
-- Этот мод добавляет в игру возможность быстрой печати команд терминала. Также это позволяет просматривать историю команд.
-Tab – автозаполнение (нажмите еще раз, чтобы распечатать другие результаты), используйте Esc для выхода из терминала
-Стрелка вверх — предыдущая команда
-Стрелка вниз — следующая команда
-- [Ссылка на мод в Thunderstore](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/)
-
-
-#### Мод 7
 ![Мод](https://gcdn.thunderstore.io/live/repository/icons/sunnobunno-YippeeMod-1.2.3.png.128x128_q95.png) 
 - YippeeMod
 - Меняет звук таракана на ЮЮЮЮПИИИ
