@@ -54,7 +54,8 @@ export default defineUserConfig({
                         '/launcher/README.md',
                         '/telegrambot/README.md',
 						'/donate/README.md',
-						'/lethalcompany/README.md',
+						'/rp/README.md',
+						'/lethalcompany/README.md'
 
                    				
                 ],
@@ -84,7 +85,8 @@ export default defineUserConfig({
                         '/launcher/README.md',
                         '/telegrambot/README.md',
 						'/donate/README.md',
-						'/lethalcompany/README.md',						
+						'/rp/README.md',
+						'/lethalcompany/README.md'					
 						
                     ],
                 },
