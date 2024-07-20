@@ -5,13 +5,13 @@
 
 В этом разделе написсаны общие гайды по серверам Minecraft в сети ProjectBW
 
-### Привязка Minecraft: Java & Bedrock Edition
-
-`Привязка Minecraft: Java & Bedrock Edition` : [Привязка Minecraft: Java & Bedrock Edition](https://wiki.projectbw.ru/guide/bedrock)
-
 ### Регистрация/Авторизация на сервере
 
 `Регистрация/Авторизация на сервере` : [Регистрация/Авторизация на сервере](https://wiki.projectbw.ru/guide/login)
+
+### Привязка Minecraft: Java & Bedrock Edition
+
+`Привязка Minecraft: Java & Bedrock Edition` : [Привязка Minecraft: Java & Bedrock Edition](https://wiki.projectbw.ru/guide/bedrock)
 
 ### Как изменить скин на сервере
 
