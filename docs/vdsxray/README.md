@@ -159,6 +159,20 @@ https://t.me/ProjectBwShop_bot
 
 Нам нужно нажать Пополнить через или Пополнить через и у нас отроется окно оплаты
 
+
+![VDS4](https://wiki.projectbw.ru/images/vdsxray/4.jpg)
+![VDS5](https://wiki.projectbw.ru/images/vdsxray/5.jpg)
+![VDS6](https://wiki.projectbw.ru/images/vdsxray/6.jpg)
+![VDS7](https://wiki.projectbw.ru/images/vdsxray/7.jpg)
+![VDS8](https://wiki.projectbw.ru/images/vdsxray/8.jpg)
+![VDS9](https://wiki.projectbw.ru/images/vdsxray/9.jpg)
+![VDS10](https://wiki.projectbw.ru/images/vdsxray/10.jpg)
+![VDS11](https://wiki.projectbw.ru/images/vdsxray/11.jpg)
+![VDS12](https://wiki.projectbw.ru/images/vdsxray/12.jpg)
+![VDS13](https://wiki.projectbw.ru/images/vdsxray/13.jpg)
+![VDS14](https://wiki.projectbw.ru/images/vdsxray/14.jpg)
+![VDS15](https://wiki.projectbw.ru/images/vdsxray/15.jpg)
+
 ## Пользовательское соглашение 
 
 ### При пополнение баланса 
